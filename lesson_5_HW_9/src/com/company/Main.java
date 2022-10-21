@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         String[][] array = {
-                {"1", "1", "1", "1"},
+                {"1", "1", "1", "n"},
                 {"1", "1", "1", "1"},
                 {"1", "1", "1", "1"},
                 {"1", "1", "1", "1"}
@@ -18,7 +18,7 @@ public class Main {
         } catch (ArraySizeException e) {
             System.out.println(e.getMessage() + ": Array must be 4 x 4");
         } catch (ArrayDataException e) {
-            System.out.println(e.getMessage() + " in " + e.getIndex());
+            System.out.println(e.getMessage() + " - check your date");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }

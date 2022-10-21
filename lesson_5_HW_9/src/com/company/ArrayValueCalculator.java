@@ -14,7 +14,7 @@ public class ArrayValueCalculator {
                 try {
                     result += Integer.parseInt(array[i][j]);
                 } catch (NumberFormatException e) {
-                    throw new ArrayDataException(e.getMessage(),i,j);
+                    throw new ArrayDataException(e.getMessage() + String.format(" in [%d][%d]",i,j));
                 }
             }
         }
