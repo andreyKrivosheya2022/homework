@@ -1,0 +1,4096 @@
+22:47:30
+DEBUG Message: Iteration: 2076
+22:47:30
+DEBUG Message: Iteration: 2077
+22:47:30
+DEBUG Message: Iteration: 2078
+22:47:30
+DEBUG Message: Iteration: 2079
+22:47:30
+DEBUG Message: Iteration: 2080
+22:47:30
+DEBUG Message: Iteration: 2081
+22:47:30
+DEBUG Message: Iteration: 2082
+22:47:30
+DEBUG Message: Iteration: 2083
+22:47:30
+DEBUG Message: Iteration: 2084
+22:47:30
+DEBUG Message: Iteration: 2085
+22:47:30
+DEBUG Message: Iteration: 2086
+22:47:30
+DEBUG Message: Iteration: 2087
+22:47:30
+DEBUG Message: Iteration: 2088
+22:47:30
+DEBUG Message: Iteration: 2089
+22:47:30
+DEBUG Message: Iteration: 2090
+22:47:30
+DEBUG Message: Iteration: 2091
+22:47:30
+DEBUG Message: Iteration: 2092
+22:47:30
+DEBUG Message: Iteration: 2093
+22:47:30
+DEBUG Message: Iteration: 2094
+22:47:30
+DEBUG Message: Iteration: 2095
+22:47:30
+DEBUG Message: Iteration: 2096
+22:47:30
+DEBUG Message: Iteration: 2097
+22:47:30
+DEBUG Message: Iteration: 2098
+22:47:30
+DEBUG Message: Iteration: 2099
+22:47:30
+DEBUG Message: Iteration: 2100
+22:47:30
+DEBUG Message: Iteration: 2101
+22:47:30
+DEBUG Message: Iteration: 2102
+22:47:30
+DEBUG Message: Iteration: 2103
+22:47:30
+DEBUG Message: Iteration: 2104
+22:47:30
+DEBUG Message: Iteration: 2105
+22:47:30
+DEBUG Message: Iteration: 2106
+22:47:30
+DEBUG Message: Iteration: 2107
+22:47:30
+DEBUG Message: Iteration: 2108
+22:47:30
+DEBUG Message: Iteration: 2109
+22:47:30
+DEBUG Message: Iteration: 2110
+22:47:30
+DEBUG Message: Iteration: 2111
+22:47:30
+DEBUG Message: Iteration: 2112
+22:47:30
+DEBUG Message: Iteration: 2113
+22:47:30
+DEBUG Message: Iteration: 2114
+22:47:30
+DEBUG Message: Iteration: 2115
+22:47:30
+DEBUG Message: Iteration: 2116
+22:47:30
+DEBUG Message: Iteration: 2117
+22:47:30
+DEBUG Message: Iteration: 2118
+22:47:30
+DEBUG Message: Iteration: 2119
+22:47:30
+DEBUG Message: Iteration: 2120
+22:47:30
+DEBUG Message: Iteration: 2121
+22:47:30
+DEBUG Message: Iteration: 2122
+22:47:30
+DEBUG Message: Iteration: 2123
+22:47:30
+DEBUG Message: Iteration: 2124
+22:47:30
+DEBUG Message: Iteration: 2125
+22:47:30
+DEBUG Message: Iteration: 2126
+22:47:30
+DEBUG Message: Iteration: 2127
+22:47:30
+DEBUG Message: Iteration: 2128
+22:47:30
+DEBUG Message: Iteration: 2129
+22:47:30
+DEBUG Message: Iteration: 2130
+22:47:30
+DEBUG Message: Iteration: 2131
+22:47:30
+DEBUG Message: Iteration: 2132
+22:47:30
+DEBUG Message: Iteration: 2133
+22:47:30
+DEBUG Message: Iteration: 2134
+22:47:30
+DEBUG Message: Iteration: 2135
+22:47:30
+DEBUG Message: Iteration: 2136
+22:47:30
+DEBUG Message: Iteration: 2137
+22:47:30
+DEBUG Message: Iteration: 2138
+22:47:30
+DEBUG Message: Iteration: 2139
+22:47:30
+DEBUG Message: Iteration: 2140
+22:47:30
+DEBUG Message: Iteration: 2141
+22:47:30
+DEBUG Message: Iteration: 2142
+22:47:30
+DEBUG Message: Iteration: 2143
+22:47:30
+DEBUG Message: Iteration: 2144
+22:47:30
+DEBUG Message: Iteration: 2145
+22:47:30
+DEBUG Message: Iteration: 2146
+22:47:30
+DEBUG Message: Iteration: 2147
+22:47:30
+DEBUG Message: Iteration: 2148
+22:47:30
+DEBUG Message: Iteration: 2149
+22:47:30
+DEBUG Message: Iteration: 2150
+22:47:30
+DEBUG Message: Iteration: 2151
+22:47:30
+DEBUG Message: Iteration: 2152
+22:47:30
+DEBUG Message: Iteration: 2153
+22:47:30
+DEBUG Message: Iteration: 2154
+22:47:30
+DEBUG Message: Iteration: 2155
+22:47:30
+DEBUG Message: Iteration: 2156
+22:47:30
+DEBUG Message: Iteration: 2157
+22:47:30
+DEBUG Message: Iteration: 2158
+22:47:30
+DEBUG Message: Iteration: 2159
+22:47:30
+DEBUG Message: Iteration: 2160
+22:47:30
+DEBUG Message: Iteration: 2161
+22:47:30
+DEBUG Message: Iteration: 2162
+22:47:30
+DEBUG Message: Iteration: 2163
+22:47:30
+DEBUG Message: Iteration: 2164
+22:47:30
+DEBUG Message: Iteration: 2165
+22:47:30
+DEBUG Message: Iteration: 2166
+22:47:30
+DEBUG Message: Iteration: 2167
+22:47:30
+DEBUG Message: Iteration: 2168
+22:47:30
+DEBUG Message: Iteration: 2169
+22:47:30
+DEBUG Message: Iteration: 2170
+22:47:30
+DEBUG Message: Iteration: 2171
+22:47:30
+DEBUG Message: Iteration: 2172
+22:47:30
+DEBUG Message: Iteration: 2173
+22:47:30
+DEBUG Message: Iteration: 2174
+22:47:30
+DEBUG Message: Iteration: 2175
+22:47:30
+DEBUG Message: Iteration: 2176
+22:47:30
+DEBUG Message: Iteration: 2177
+22:47:30
+DEBUG Message: Iteration: 2178
+22:47:30
+DEBUG Message: Iteration: 2179
+22:47:30
+DEBUG Message: Iteration: 2180
+22:47:30
+DEBUG Message: Iteration: 2181
+22:47:30
+DEBUG Message: Iteration: 2182
+22:47:30
+DEBUG Message: Iteration: 2183
+22:47:30
+DEBUG Message: Iteration: 2184
+22:47:30
+DEBUG Message: Iteration: 2185
+22:47:30
+DEBUG Message: Iteration: 2186
+22:47:30
+DEBUG Message: Iteration: 2187
+22:47:30
+DEBUG Message: Iteration: 2188
+22:47:30
+DEBUG Message: Iteration: 2189
+22:47:30
+DEBUG Message: Iteration: 2190
+22:47:30
+DEBUG Message: Iteration: 2191
+22:47:30
+DEBUG Message: Iteration: 2192
+22:47:30
+DEBUG Message: Iteration: 2193
+22:47:30
+DEBUG Message: Iteration: 2194
+22:47:30
+DEBUG Message: Iteration: 2195
+22:47:30
+DEBUG Message: Iteration: 2196
+22:47:30
+DEBUG Message: Iteration: 2197
+22:47:30
+DEBUG Message: Iteration: 2198
+22:47:30
+DEBUG Message: Iteration: 2199
+22:47:30
+DEBUG Message: Iteration: 2200
+22:47:30
+DEBUG Message: Iteration: 2201
+22:47:30
+DEBUG Message: Iteration: 2202
+22:47:30
+DEBUG Message: Iteration: 2203
+22:47:30
+DEBUG Message: Iteration: 2204
+22:47:30
+DEBUG Message: Iteration: 2205
+22:47:30
+DEBUG Message: Iteration: 2206
+22:47:30
+DEBUG Message: Iteration: 2207
+22:47:30
+DEBUG Message: Iteration: 2208
+22:47:30
+DEBUG Message: Iteration: 2209
+22:47:30
+DEBUG Message: Iteration: 2210
+22:47:30
+DEBUG Message: Iteration: 2211
+22:47:30
+DEBUG Message: Iteration: 2212
+22:47:30
+DEBUG Message: Iteration: 2213
+22:47:30
+DEBUG Message: Iteration: 2214
+22:47:30
+DEBUG Message: Iteration: 2215
+22:47:30
+DEBUG Message: Iteration: 2216
+22:47:30
+DEBUG Message: Iteration: 2217
+22:47:30
+DEBUG Message: Iteration: 2218
+22:47:30
+DEBUG Message: Iteration: 2219
+22:47:30
+DEBUG Message: Iteration: 2220
+22:47:30
+DEBUG Message: Iteration: 2221
+22:47:30
+DEBUG Message: Iteration: 2222
+22:47:30
+DEBUG Message: Iteration: 2223
+22:47:30
+DEBUG Message: Iteration: 2224
+22:47:30
+DEBUG Message: Iteration: 2225
+22:47:30
+DEBUG Message: Iteration: 2226
+22:47:30
+DEBUG Message: Iteration: 2227
+22:47:30
+DEBUG Message: Iteration: 2228
+22:47:30
+DEBUG Message: Iteration: 2229
+22:47:30
+DEBUG Message: Iteration: 2230
+22:47:30
+DEBUG Message: Iteration: 2231
+22:47:30
+DEBUG Message: Iteration: 2232
+22:47:30
+DEBUG Message: Iteration: 2233
+22:47:30
+DEBUG Message: Iteration: 2234
+22:47:30
+DEBUG Message: Iteration: 2235
+22:47:30
+DEBUG Message: Iteration: 2236
+22:47:30
+DEBUG Message: Iteration: 2237
+22:47:30
+DEBUG Message: Iteration: 2238
+22:47:30
+DEBUG Message: Iteration: 2239
+22:47:30
+DEBUG Message: Iteration: 2240
+22:47:30
+DEBUG Message: Iteration: 2241
+22:47:30
+DEBUG Message: Iteration: 2242
+22:47:30
+DEBUG Message: Iteration: 2243
+22:47:30
+DEBUG Message: Iteration: 2244
+22:47:30
+DEBUG Message: Iteration: 2245
+22:47:30
+DEBUG Message: Iteration: 2246
+22:47:30
+DEBUG Message: Iteration: 2247
+22:47:30
+DEBUG Message: Iteration: 2248
+22:47:30
+DEBUG Message: Iteration: 2249
+22:47:30
+DEBUG Message: Iteration: 2250
+22:47:30
+DEBUG Message: Iteration: 2251
+22:47:30
+DEBUG Message: Iteration: 2252
+22:47:30
+DEBUG Message: Iteration: 2253
+22:47:30
+DEBUG Message: Iteration: 2254
+22:47:30
+DEBUG Message: Iteration: 2255
+22:47:30
+DEBUG Message: Iteration: 2256
+22:47:30
+DEBUG Message: Iteration: 2257
+22:47:30
+DEBUG Message: Iteration: 2258
+22:47:30
+DEBUG Message: Iteration: 2259
+22:47:30
+DEBUG Message: Iteration: 2260
+22:47:30
+DEBUG Message: Iteration: 2261
+22:47:30
+DEBUG Message: Iteration: 2262
+22:47:30
+DEBUG Message: Iteration: 2263
+22:47:30
+DEBUG Message: Iteration: 2264
+22:47:30
+DEBUG Message: Iteration: 2265
+22:47:30
+DEBUG Message: Iteration: 2266
+22:47:30
+DEBUG Message: Iteration: 2267
+22:47:30
+DEBUG Message: Iteration: 2268
+22:47:30
+DEBUG Message: Iteration: 2269
+22:47:30
+DEBUG Message: Iteration: 2270
+22:47:30
+DEBUG Message: Iteration: 2271
+22:47:30
+DEBUG Message: Iteration: 2272
+22:47:30
+DEBUG Message: Iteration: 2273
+22:47:30
+DEBUG Message: Iteration: 2274
+22:47:30
+DEBUG Message: Iteration: 2275
+22:47:30
+DEBUG Message: Iteration: 2276
+22:47:30
+DEBUG Message: Iteration: 2277
+22:47:30
+DEBUG Message: Iteration: 2278
+22:47:30
+DEBUG Message: Iteration: 2279
+22:47:30
+DEBUG Message: Iteration: 2280
+22:47:30
+DEBUG Message: Iteration: 2281
+22:47:30
+DEBUG Message: Iteration: 2282
+22:47:30
+DEBUG Message: Iteration: 2283
+22:47:30
+DEBUG Message: Iteration: 2284
+22:47:30
+DEBUG Message: Iteration: 2285
+22:47:30
+DEBUG Message: Iteration: 2286
+22:47:30
+DEBUG Message: Iteration: 2287
+22:47:30
+DEBUG Message: Iteration: 2288
+22:47:30
+DEBUG Message: Iteration: 2289
+22:47:30
+DEBUG Message: Iteration: 2290
+22:47:30
+DEBUG Message: Iteration: 2291
+22:47:30
+DEBUG Message: Iteration: 2292
+22:47:30
+DEBUG Message: Iteration: 2293
+22:47:30
+DEBUG Message: Iteration: 2294
+22:47:30
+DEBUG Message: Iteration: 2295
+22:47:30
+DEBUG Message: Iteration: 2296
+22:47:30
+DEBUG Message: Iteration: 2297
+22:47:30
+DEBUG Message: Iteration: 2298
+22:47:30
+DEBUG Message: Iteration: 2299
+22:47:30
+DEBUG Message: Iteration: 2300
+22:47:30
+DEBUG Message: Iteration: 2301
+22:47:30
+DEBUG Message: Iteration: 2302
+22:47:30
+DEBUG Message: Iteration: 2303
+22:47:30
+DEBUG Message: Iteration: 2304
+22:47:30
+DEBUG Message: Iteration: 2305
+22:47:30
+DEBUG Message: Iteration: 2306
+22:47:30
+DEBUG Message: Iteration: 2307
+22:47:30
+DEBUG Message: Iteration: 2308
+22:47:30
+DEBUG Message: Iteration: 2309
+22:47:30
+DEBUG Message: Iteration: 2310
+22:47:30
+DEBUG Message: Iteration: 2311
+22:47:30
+DEBUG Message: Iteration: 2312
+22:47:30
+DEBUG Message: Iteration: 2313
+22:47:30
+DEBUG Message: Iteration: 2314
+22:47:30
+DEBUG Message: Iteration: 2315
+22:47:30
+DEBUG Message: Iteration: 2316
+22:47:30
+DEBUG Message: Iteration: 2317
+22:47:30
+DEBUG Message: Iteration: 2318
+22:47:30
+DEBUG Message: Iteration: 2319
+22:47:30
+DEBUG Message: Iteration: 2320
+22:47:30
+DEBUG Message: Iteration: 2321
+22:47:30
+DEBUG Message: Iteration: 2322
+22:47:30
+DEBUG Message: Iteration: 2323
+22:47:30
+DEBUG Message: Iteration: 2324
+22:47:30
+DEBUG Message: Iteration: 2325
+22:47:30
+DEBUG Message: Iteration: 2326
+22:47:30
+DEBUG Message: Iteration: 2327
+22:47:30
+DEBUG Message: Iteration: 2328
+22:47:30
+DEBUG Message: Iteration: 2329
+22:47:30
+DEBUG Message: Iteration: 2330
+22:47:30
+DEBUG Message: Iteration: 2331
+22:47:30
+DEBUG Message: Iteration: 2332
+22:47:30
+DEBUG Message: Iteration: 2333
+22:47:30
+DEBUG Message: Iteration: 2334
+22:47:30
+DEBUG Message: Iteration: 2335
+22:47:30
+DEBUG Message: Iteration: 2336
+22:47:30
+DEBUG Message: Iteration: 2337
+22:47:30
+DEBUG Message: Iteration: 2338
+22:47:30
+DEBUG Message: Iteration: 2339
+22:47:30
+DEBUG Message: Iteration: 2340
+22:47:30
+DEBUG Message: Iteration: 2341
+22:47:30
+DEBUG Message: Iteration: 2342
+22:47:30
+DEBUG Message: Iteration: 2343
+22:47:30
+DEBUG Message: Iteration: 2344
+22:47:30
+DEBUG Message: Iteration: 2345
+22:47:30
+DEBUG Message: Iteration: 2346
+22:47:30
+DEBUG Message: Iteration: 2347
+22:47:30
+DEBUG Message: Iteration: 2348
+22:47:30
+DEBUG Message: Iteration: 2349
+22:47:30
+DEBUG Message: Iteration: 2350
+22:47:30
+DEBUG Message: Iteration: 2351
+22:47:30
+DEBUG Message: Iteration: 2352
+22:47:30
+DEBUG Message: Iteration: 2353
+22:47:30
+DEBUG Message: Iteration: 2354
+22:47:30
+DEBUG Message: Iteration: 2355
+22:47:30
+DEBUG Message: Iteration: 2356
+22:47:30
+DEBUG Message: Iteration: 2357
+22:47:30
+DEBUG Message: Iteration: 2358
+22:47:30
+DEBUG Message: Iteration: 2359
+22:47:30
+DEBUG Message: Iteration: 2360
+22:47:30
+DEBUG Message: Iteration: 2361
+22:47:30
+DEBUG Message: Iteration: 2362
+22:47:30
+DEBUG Message: Iteration: 2363
+22:47:30
+DEBUG Message: Iteration: 2364
+22:47:30
+DEBUG Message: Iteration: 2365
+22:47:30
+DEBUG Message: Iteration: 2366
+22:47:30
+DEBUG Message: Iteration: 2367
+22:47:30
+DEBUG Message: Iteration: 2368
+22:47:30
+DEBUG Message: Iteration: 2369
+22:47:30
+DEBUG Message: Iteration: 2370
+22:47:30
+DEBUG Message: Iteration: 2371
+22:47:30
+DEBUG Message: Iteration: 2372
+22:47:30
+DEBUG Message: Iteration: 2373
+22:47:30
+DEBUG Message: Iteration: 2374
+22:47:30
+DEBUG Message: Iteration: 2375
+22:47:30
+DEBUG Message: Iteration: 2376
+22:47:30
+DEBUG Message: Iteration: 2377
+22:47:30
+DEBUG Message: Iteration: 2378
+22:47:30
+DEBUG Message: Iteration: 2379
+22:47:30
+DEBUG Message: Iteration: 2380
+22:47:30
+DEBUG Message: Iteration: 2381
+22:47:30
+DEBUG Message: Iteration: 2382
+22:47:30
+DEBUG Message: Iteration: 2383
+22:47:30
+DEBUG Message: Iteration: 2384
+22:47:30
+DEBUG Message: Iteration: 2385
+22:47:30
+DEBUG Message: Iteration: 2386
+22:47:30
+DEBUG Message: Iteration: 2387
+22:47:30
+DEBUG Message: Iteration: 2388
+22:47:30
+DEBUG Message: Iteration: 2389
+22:47:30
+DEBUG Message: Iteration: 2390
+22:47:30
+DEBUG Message: Iteration: 2391
+22:47:30
+DEBUG Message: Iteration: 2392
+22:47:30
+DEBUG Message: Iteration: 2393
+22:47:30
+DEBUG Message: Iteration: 2394
+22:47:30
+DEBUG Message: Iteration: 2395
+22:47:30
+DEBUG Message: Iteration: 2396
+22:47:30
+DEBUG Message: Iteration: 2397
+22:47:30
+DEBUG Message: Iteration: 2398
+22:47:30
+DEBUG Message: Iteration: 2399
+22:47:30
+DEBUG Message: Iteration: 2400
+22:47:30
+DEBUG Message: Iteration: 2401
+22:47:30
+DEBUG Message: Iteration: 2402
+22:47:30
+DEBUG Message: Iteration: 2403
+22:47:30
+DEBUG Message: Iteration: 2404
+22:47:30
+DEBUG Message: Iteration: 2405
+22:47:30
+DEBUG Message: Iteration: 2406
+22:47:30
+DEBUG Message: Iteration: 2407
+22:47:30
+DEBUG Message: Iteration: 2408
+22:47:30
+DEBUG Message: Iteration: 2409
+22:47:30
+DEBUG Message: Iteration: 2410
+22:47:30
+DEBUG Message: Iteration: 2411
+22:47:30
+DEBUG Message: Iteration: 2412
+22:47:30
+DEBUG Message: Iteration: 2413
+22:47:30
+DEBUG Message: Iteration: 2414
+22:47:30
+DEBUG Message: Iteration: 2415
+22:47:30
+DEBUG Message: Iteration: 2416
+22:47:30
+DEBUG Message: Iteration: 2417
+22:47:30
+DEBUG Message: Iteration: 2418
+22:47:30
+DEBUG Message: Iteration: 2419
+22:47:30
+DEBUG Message: Iteration: 2420
+22:47:30
+DEBUG Message: Iteration: 2421
+22:47:30
+DEBUG Message: Iteration: 2422
+22:47:30
+DEBUG Message: Iteration: 2423
+22:47:30
+DEBUG Message: Iteration: 2424
+22:47:30
+DEBUG Message: Iteration: 2425
+22:47:30
+DEBUG Message: Iteration: 2426
+22:47:30
+DEBUG Message: Iteration: 2427
+22:47:30
+DEBUG Message: Iteration: 2428
+22:47:30
+DEBUG Message: Iteration: 2429
+22:47:30
+DEBUG Message: Iteration: 2430
+22:47:30
+DEBUG Message: Iteration: 2431
+22:47:30
+DEBUG Message: Iteration: 2432
+22:47:30
+DEBUG Message: Iteration: 2433
+22:47:30
+DEBUG Message: Iteration: 2434
+22:47:30
+DEBUG Message: Iteration: 2435
+22:47:30
+DEBUG Message: Iteration: 2436
+22:47:30
+DEBUG Message: Iteration: 2437
+22:47:30
+DEBUG Message: Iteration: 2438
+22:47:30
+DEBUG Message: Iteration: 2439
+22:47:30
+DEBUG Message: Iteration: 2440
+22:47:30
+DEBUG Message: Iteration: 2441
+22:47:30
+DEBUG Message: Iteration: 2442
+22:47:30
+DEBUG Message: Iteration: 2443
+22:47:30
+DEBUG Message: Iteration: 2444
+22:47:30
+DEBUG Message: Iteration: 2445
+22:47:30
+DEBUG Message: Iteration: 2446
+22:47:30
+DEBUG Message: Iteration: 2447
+22:47:30
+DEBUG Message: Iteration: 2448
+22:47:30
+DEBUG Message: Iteration: 2449
+22:47:30
+DEBUG Message: Iteration: 2450
+22:47:30
+DEBUG Message: Iteration: 2451
+22:47:30
+DEBUG Message: Iteration: 2452
+22:47:30
+DEBUG Message: Iteration: 2453
+22:47:30
+DEBUG Message: Iteration: 2454
+22:47:30
+DEBUG Message: Iteration: 2455
+22:47:30
+DEBUG Message: Iteration: 2456
+22:47:30
+DEBUG Message: Iteration: 2457
+22:47:30
+DEBUG Message: Iteration: 2458
+22:47:30
+DEBUG Message: Iteration: 2459
+22:47:30
+DEBUG Message: Iteration: 2460
+22:47:30
+DEBUG Message: Iteration: 2461
+22:47:30
+DEBUG Message: Iteration: 2462
+22:47:30
+DEBUG Message: Iteration: 2463
+22:47:30
+DEBUG Message: Iteration: 2464
+22:47:30
+DEBUG Message: Iteration: 2465
+22:47:30
+DEBUG Message: Iteration: 2466
+22:47:30
+DEBUG Message: Iteration: 2467
+22:47:30
+DEBUG Message: Iteration: 2468
+22:47:30
+DEBUG Message: Iteration: 2469
+22:47:30
+DEBUG Message: Iteration: 2470
+22:47:30
+DEBUG Message: Iteration: 2471
+22:47:30
+DEBUG Message: Iteration: 2472
+22:47:30
+DEBUG Message: Iteration: 2473
+22:47:30
+DEBUG Message: Iteration: 2474
+22:47:30
+DEBUG Message: Iteration: 2475
+22:47:30
+DEBUG Message: Iteration: 2476
+22:47:30
+DEBUG Message: Iteration: 2477
+22:47:30
+DEBUG Message: Iteration: 2478
+22:47:30
+DEBUG Message: Iteration: 2479
+22:47:30
+DEBUG Message: Iteration: 2480
+22:47:30
+DEBUG Message: Iteration: 2481
+22:47:30
+DEBUG Message: Iteration: 2482
+22:47:30
+DEBUG Message: Iteration: 2483
+22:47:30
+DEBUG Message: Iteration: 2484
+22:47:30
+DEBUG Message: Iteration: 2485
+22:47:30
+DEBUG Message: Iteration: 2486
+22:47:30
+DEBUG Message: Iteration: 2487
+22:47:30
+DEBUG Message: Iteration: 2488
+22:47:30
+DEBUG Message: Iteration: 2489
+22:47:30
+DEBUG Message: Iteration: 2490
+22:47:30
+DEBUG Message: Iteration: 2491
+22:47:30
+DEBUG Message: Iteration: 2492
+22:47:30
+DEBUG Message: Iteration: 2493
+22:47:30
+DEBUG Message: Iteration: 2494
+22:47:30
+DEBUG Message: Iteration: 2495
+22:47:30
+DEBUG Message: Iteration: 2496
+22:47:30
+DEBUG Message: Iteration: 2497
+22:47:30
+DEBUG Message: Iteration: 2498
+22:47:30
+DEBUG Message: Iteration: 2499
+22:47:30
+DEBUG Message: Iteration: 2500
+22:47:30
+DEBUG Message: Iteration: 2501
+22:47:30
+DEBUG Message: Iteration: 2502
+22:47:30
+DEBUG Message: Iteration: 2503
+22:47:30
+DEBUG Message: Iteration: 2504
+22:47:30
+DEBUG Message: Iteration: 2505
+22:47:30
+DEBUG Message: Iteration: 2506
+22:47:30
+DEBUG Message: Iteration: 2507
+22:47:30
+DEBUG Message: Iteration: 2508
+22:47:30
+DEBUG Message: Iteration: 2509
+22:47:30
+DEBUG Message: Iteration: 2510
+22:47:30
+DEBUG Message: Iteration: 2511
+22:47:30
+DEBUG Message: Iteration: 2512
+22:47:30
+DEBUG Message: Iteration: 2513
+22:47:30
+DEBUG Message: Iteration: 2514
+22:47:30
+DEBUG Message: Iteration: 2515
+22:47:30
+DEBUG Message: Iteration: 2516
+22:47:30
+DEBUG Message: Iteration: 2517
+22:47:30
+DEBUG Message: Iteration: 2518
+22:47:30
+DEBUG Message: Iteration: 2519
+22:47:30
+DEBUG Message: Iteration: 2520
+22:47:30
+DEBUG Message: Iteration: 2521
+22:47:30
+DEBUG Message: Iteration: 2522
+22:47:30
+DEBUG Message: Iteration: 2523
+22:47:30
+DEBUG Message: Iteration: 2524
+22:47:30
+DEBUG Message: Iteration: 2525
+22:47:30
+DEBUG Message: Iteration: 2526
+22:47:30
+DEBUG Message: Iteration: 2527
+22:47:30
+DEBUG Message: Iteration: 2528
+22:47:30
+DEBUG Message: Iteration: 2529
+22:47:30
+DEBUG Message: Iteration: 2530
+22:47:30
+DEBUG Message: Iteration: 2531
+22:47:30
+DEBUG Message: Iteration: 2532
+22:47:30
+DEBUG Message: Iteration: 2533
+22:47:30
+DEBUG Message: Iteration: 2534
+22:47:30
+DEBUG Message: Iteration: 2535
+22:47:30
+DEBUG Message: Iteration: 2536
+22:47:30
+DEBUG Message: Iteration: 2537
+22:47:30
+DEBUG Message: Iteration: 2538
+22:47:30
+DEBUG Message: Iteration: 2539
+22:47:30
+DEBUG Message: Iteration: 2540
+22:47:30
+DEBUG Message: Iteration: 2541
+22:47:30
+DEBUG Message: Iteration: 2542
+22:47:30
+DEBUG Message: Iteration: 2543
+22:47:30
+DEBUG Message: Iteration: 2544
+22:47:30
+DEBUG Message: Iteration: 2545
+22:47:30
+DEBUG Message: Iteration: 2546
+22:47:30
+DEBUG Message: Iteration: 2547
+22:47:30
+DEBUG Message: Iteration: 2548
+22:47:30
+DEBUG Message: Iteration: 2549
+22:47:30
+DEBUG Message: Iteration: 2550
+22:47:30
+DEBUG Message: Iteration: 2551
+22:47:30
+DEBUG Message: Iteration: 2552
+22:47:30
+DEBUG Message: Iteration: 2553
+22:47:30
+DEBUG Message: Iteration: 2554
+22:47:30
+DEBUG Message: Iteration: 2555
+22:47:30
+DEBUG Message: Iteration: 2556
+22:47:30
+DEBUG Message: Iteration: 2557
+22:47:30
+DEBUG Message: Iteration: 2558
+22:47:30
+DEBUG Message: Iteration: 2559
+22:47:30
+DEBUG Message: Iteration: 2560
+22:47:30
+DEBUG Message: Iteration: 2561
+22:47:30
+DEBUG Message: Iteration: 2562
+22:47:30
+DEBUG Message: Iteration: 2563
+22:47:30
+DEBUG Message: Iteration: 2564
+22:47:30
+DEBUG Message: Iteration: 2565
+22:47:30
+DEBUG Message: Iteration: 2566
+22:47:30
+DEBUG Message: Iteration: 2567
+22:47:30
+DEBUG Message: Iteration: 2568
+22:47:30
+DEBUG Message: Iteration: 2569
+22:47:30
+DEBUG Message: Iteration: 2570
+22:47:30
+DEBUG Message: Iteration: 2571
+22:47:30
+DEBUG Message: Iteration: 2572
+22:47:30
+DEBUG Message: Iteration: 2573
+22:47:30
+DEBUG Message: Iteration: 2574
+22:47:30
+DEBUG Message: Iteration: 2575
+22:47:30
+DEBUG Message: Iteration: 2576
+22:47:30
+DEBUG Message: Iteration: 2577
+22:47:30
+DEBUG Message: Iteration: 2578
+22:47:30
+DEBUG Message: Iteration: 2579
+22:47:30
+DEBUG Message: Iteration: 2580
+22:47:30
+DEBUG Message: Iteration: 2581
+22:47:30
+DEBUG Message: Iteration: 2582
+22:47:30
+DEBUG Message: Iteration: 2583
+22:47:30
+DEBUG Message: Iteration: 2584
+22:47:30
+DEBUG Message: Iteration: 2585
+22:47:30
+DEBUG Message: Iteration: 2586
+22:47:30
+DEBUG Message: Iteration: 2587
+22:47:30
+DEBUG Message: Iteration: 2588
+22:47:30
+DEBUG Message: Iteration: 2589
+22:47:30
+DEBUG Message: Iteration: 2590
+22:47:30
+DEBUG Message: Iteration: 2591
+22:47:30
+DEBUG Message: Iteration: 2592
+22:47:30
+DEBUG Message: Iteration: 2593
+22:47:30
+DEBUG Message: Iteration: 2594
+22:47:30
+DEBUG Message: Iteration: 2595
+22:47:30
+DEBUG Message: Iteration: 2596
+22:47:30
+DEBUG Message: Iteration: 2597
+22:47:30
+DEBUG Message: Iteration: 2598
+22:47:30
+DEBUG Message: Iteration: 2599
+22:47:30
+DEBUG Message: Iteration: 2600
+22:47:30
+DEBUG Message: Iteration: 2601
+22:47:30
+DEBUG Message: Iteration: 2602
+22:47:30
+DEBUG Message: Iteration: 2603
+22:47:30
+DEBUG Message: Iteration: 2604
+22:47:30
+DEBUG Message: Iteration: 2605
+22:47:30
+DEBUG Message: Iteration: 2606
+22:47:30
+DEBUG Message: Iteration: 2607
+22:47:30
+DEBUG Message: Iteration: 2608
+22:47:30
+DEBUG Message: Iteration: 2609
+22:47:30
+DEBUG Message: Iteration: 2610
+22:47:30
+DEBUG Message: Iteration: 2611
+22:47:30
+DEBUG Message: Iteration: 2612
+22:47:30
+DEBUG Message: Iteration: 2613
+22:47:30
+DEBUG Message: Iteration: 2614
+22:47:30
+DEBUG Message: Iteration: 2615
+22:47:30
+DEBUG Message: Iteration: 2616
+22:47:30
+DEBUG Message: Iteration: 2617
+22:47:30
+DEBUG Message: Iteration: 2618
+22:47:30
+DEBUG Message: Iteration: 2619
+22:47:30
+DEBUG Message: Iteration: 2620
+22:47:30
+DEBUG Message: Iteration: 2621
+22:47:30
+DEBUG Message: Iteration: 2622
+22:47:30
+DEBUG Message: Iteration: 2623
+22:47:30
+DEBUG Message: Iteration: 2624
+22:47:30
+DEBUG Message: Iteration: 2625
+22:47:30
+DEBUG Message: Iteration: 2626
+22:47:30
+DEBUG Message: Iteration: 2627
+22:47:30
+DEBUG Message: Iteration: 2628
+22:47:30
+DEBUG Message: Iteration: 2629
+22:47:30
+DEBUG Message: Iteration: 2630
+22:47:30
+DEBUG Message: Iteration: 2631
+22:47:30
+DEBUG Message: Iteration: 2632
+22:47:30
+DEBUG Message: Iteration: 2633
+22:47:30
+DEBUG Message: Iteration: 2634
+22:47:30
+DEBUG Message: Iteration: 2635
+22:47:30
+DEBUG Message: Iteration: 2636
+22:47:30
+DEBUG Message: Iteration: 2637
+22:47:30
+DEBUG Message: Iteration: 2638
+22:47:30
+DEBUG Message: Iteration: 2639
+22:47:30
+DEBUG Message: Iteration: 2640
+22:47:30
+DEBUG Message: Iteration: 2641
+22:47:30
+DEBUG Message: Iteration: 2642
+22:47:30
+DEBUG Message: Iteration: 2643
+22:47:30
+DEBUG Message: Iteration: 2644
+22:47:30
+DEBUG Message: Iteration: 2645
+22:47:30
+DEBUG Message: Iteration: 2646
+22:47:30
+DEBUG Message: Iteration: 2647
+22:47:30
+DEBUG Message: Iteration: 2648
+22:47:30
+DEBUG Message: Iteration: 2649
+22:47:30
+DEBUG Message: Iteration: 2650
+22:47:30
+DEBUG Message: Iteration: 2651
+22:47:30
+DEBUG Message: Iteration: 2652
+22:47:30
+DEBUG Message: Iteration: 2653
+22:47:30
+DEBUG Message: Iteration: 2654
+22:47:30
+DEBUG Message: Iteration: 2655
+22:47:30
+DEBUG Message: Iteration: 2656
+22:47:30
+DEBUG Message: Iteration: 2657
+22:47:30
+DEBUG Message: Iteration: 2658
+22:47:30
+DEBUG Message: Iteration: 2659
+22:47:30
+DEBUG Message: Iteration: 2660
+22:47:30
+DEBUG Message: Iteration: 2661
+22:47:30
+DEBUG Message: Iteration: 2662
+22:47:30
+DEBUG Message: Iteration: 2663
+22:47:30
+DEBUG Message: Iteration: 2664
+22:47:30
+DEBUG Message: Iteration: 2665
+22:47:30
+DEBUG Message: Iteration: 2666
+22:47:30
+DEBUG Message: Iteration: 2667
+22:47:30
+DEBUG Message: Iteration: 2668
+22:47:30
+DEBUG Message: Iteration: 2669
+22:47:30
+DEBUG Message: Iteration: 2670
+22:47:30
+DEBUG Message: Iteration: 2671
+22:47:30
+DEBUG Message: Iteration: 2672
+22:47:30
+DEBUG Message: Iteration: 2673
+22:47:30
+DEBUG Message: Iteration: 2674
+22:47:30
+DEBUG Message: Iteration: 2675
+22:47:30
+DEBUG Message: Iteration: 2676
+22:47:30
+DEBUG Message: Iteration: 2677
+22:47:30
+DEBUG Message: Iteration: 2678
+22:47:30
+DEBUG Message: Iteration: 2679
+22:47:30
+DEBUG Message: Iteration: 2680
+22:47:30
+DEBUG Message: Iteration: 2681
+22:47:30
+DEBUG Message: Iteration: 2682
+22:47:30
+DEBUG Message: Iteration: 2683
+22:47:30
+DEBUG Message: Iteration: 2684
+22:47:30
+DEBUG Message: Iteration: 2685
+22:47:30
+DEBUG Message: Iteration: 2686
+22:47:30
+DEBUG Message: Iteration: 2687
+22:47:30
+DEBUG Message: Iteration: 2688
+22:47:30
+DEBUG Message: Iteration: 2689
+22:47:30
+DEBUG Message: Iteration: 2690
+22:47:30
+DEBUG Message: Iteration: 2691
+22:47:30
+DEBUG Message: Iteration: 2692
+22:47:30
+DEBUG Message: Iteration: 2693
+22:47:30
+DEBUG Message: Iteration: 2694
+22:47:30
+DEBUG Message: Iteration: 2695
+22:47:30
+DEBUG Message: Iteration: 2696
+22:47:30
+DEBUG Message: Iteration: 2697
+22:47:30
+DEBUG Message: Iteration: 2698
+22:47:30
+DEBUG Message: Iteration: 2699
+22:47:30
+DEBUG Message: Iteration: 2700
+22:47:30
+DEBUG Message: Iteration: 2701
+22:47:30
+DEBUG Message: Iteration: 2702
+22:47:30
+DEBUG Message: Iteration: 2703
+22:47:30
+DEBUG Message: Iteration: 2704
+22:47:30
+DEBUG Message: Iteration: 2705
+22:47:30
+DEBUG Message: Iteration: 2706
+22:47:30
+DEBUG Message: Iteration: 2707
+22:47:30
+DEBUG Message: Iteration: 2708
+22:47:30
+DEBUG Message: Iteration: 2709
+22:47:30
+DEBUG Message: Iteration: 2710
+22:47:30
+DEBUG Message: Iteration: 2711
+22:47:30
+DEBUG Message: Iteration: 2712
+22:47:30
+DEBUG Message: Iteration: 2713
+22:47:30
+DEBUG Message: Iteration: 2714
+22:47:30
+DEBUG Message: Iteration: 2715
+22:47:30
+DEBUG Message: Iteration: 2716
+22:47:30
+DEBUG Message: Iteration: 2717
+22:47:30
+DEBUG Message: Iteration: 2718
+22:47:30
+DEBUG Message: Iteration: 2719
+22:47:30
+DEBUG Message: Iteration: 2720
+22:47:30
+DEBUG Message: Iteration: 2721
+22:47:30
+DEBUG Message: Iteration: 2722
+22:47:30
+DEBUG Message: Iteration: 2723
+22:47:30
+DEBUG Message: Iteration: 2724
+22:47:30
+DEBUG Message: Iteration: 2725
+22:47:30
+DEBUG Message: Iteration: 2726
+22:47:30
+DEBUG Message: Iteration: 2727
+22:47:30
+DEBUG Message: Iteration: 2728
+22:47:30
+DEBUG Message: Iteration: 2729
+22:47:30
+DEBUG Message: Iteration: 2730
+22:47:30
+DEBUG Message: Iteration: 2731
+22:47:30
+DEBUG Message: Iteration: 2732
+22:47:30
+DEBUG Message: Iteration: 2733
+22:47:30
+DEBUG Message: Iteration: 2734
+22:47:30
+DEBUG Message: Iteration: 2735
+22:47:30
+DEBUG Message: Iteration: 2736
+22:47:30
+DEBUG Message: Iteration: 2737
+22:47:30
+DEBUG Message: Iteration: 2738
+22:47:30
+DEBUG Message: Iteration: 2739
+22:47:30
+DEBUG Message: Iteration: 2740
+22:47:30
+DEBUG Message: Iteration: 2741
+22:47:30
+DEBUG Message: Iteration: 2742
+22:47:30
+DEBUG Message: Iteration: 2743
+22:47:30
+DEBUG Message: Iteration: 2744
+22:47:30
+DEBUG Message: Iteration: 2745
+22:47:30
+DEBUG Message: Iteration: 2746
+22:47:30
+DEBUG Message: Iteration: 2747
+22:47:30
+DEBUG Message: Iteration: 2748
+22:47:30
+DEBUG Message: Iteration: 2749
+22:47:30
+DEBUG Message: Iteration: 2750
+22:47:30
+DEBUG Message: Iteration: 2751
+22:47:30
+DEBUG Message: Iteration: 2752
+22:47:30
+DEBUG Message: Iteration: 2753
+22:47:30
+DEBUG Message: Iteration: 2754
+22:47:30
+DEBUG Message: Iteration: 2755
+22:47:30
+DEBUG Message: Iteration: 2756
+22:47:30
+DEBUG Message: Iteration: 2757
+22:47:30
+DEBUG Message: Iteration: 2758
+22:47:30
+DEBUG Message: Iteration: 2759
+22:47:30
+DEBUG Message: Iteration: 2760
+22:47:30
+DEBUG Message: Iteration: 2761
+22:47:30
+DEBUG Message: Iteration: 2762
+22:47:30
+DEBUG Message: Iteration: 2763
+22:47:30
+DEBUG Message: Iteration: 2764
+22:47:30
+DEBUG Message: Iteration: 2765
+22:47:30
+DEBUG Message: Iteration: 2766
+22:47:30
+DEBUG Message: Iteration: 2767
+22:47:30
+DEBUG Message: Iteration: 2768
+22:47:30
+DEBUG Message: Iteration: 2769
+22:47:30
+DEBUG Message: Iteration: 2770
+22:47:30
+DEBUG Message: Iteration: 2771
+22:47:30
+DEBUG Message: Iteration: 2772
+22:47:30
+DEBUG Message: Iteration: 2773
+22:47:30
+DEBUG Message: Iteration: 2774
+22:47:30
+DEBUG Message: Iteration: 2775
+22:47:30
+DEBUG Message: Iteration: 2776
+22:47:30
+DEBUG Message: Iteration: 2777
+22:47:30
+DEBUG Message: Iteration: 2778
+22:47:30
+DEBUG Message: Iteration: 2779
+22:47:30
+DEBUG Message: Iteration: 2780
+22:47:30
+DEBUG Message: Iteration: 2781
+22:47:30
+DEBUG Message: Iteration: 2782
+22:47:30
+DEBUG Message: Iteration: 2783
+22:47:30
+DEBUG Message: Iteration: 2784
+22:47:30
+DEBUG Message: Iteration: 2785
+22:47:30
+DEBUG Message: Iteration: 2786
+22:47:30
+DEBUG Message: Iteration: 2787
+22:47:30
+DEBUG Message: Iteration: 2788
+22:47:30
+DEBUG Message: Iteration: 2789
+22:47:30
+DEBUG Message: Iteration: 2790
+22:47:30
+DEBUG Message: Iteration: 2791
+22:47:30
+DEBUG Message: Iteration: 2792
+22:47:30
+DEBUG Message: Iteration: 2793
+22:47:30
+DEBUG Message: Iteration: 2794
+22:47:30
+DEBUG Message: Iteration: 2795
+22:47:30
+DEBUG Message: Iteration: 2796
+22:47:30
+DEBUG Message: Iteration: 2797
+22:47:30
+DEBUG Message: Iteration: 2798
+22:47:30
+DEBUG Message: Iteration: 2799
+22:47:30
+DEBUG Message: Iteration: 2800
+22:47:30
+DEBUG Message: Iteration: 2801
+22:47:30
+DEBUG Message: Iteration: 2802
+22:47:30
+DEBUG Message: Iteration: 2803
+22:47:30
+DEBUG Message: Iteration: 2804
+22:47:30
+DEBUG Message: Iteration: 2805
+22:47:30
+DEBUG Message: Iteration: 2806
+22:47:30
+DEBUG Message: Iteration: 2807
+22:47:30
+DEBUG Message: Iteration: 2808
+22:47:30
+DEBUG Message: Iteration: 2809
+22:47:30
+DEBUG Message: Iteration: 2810
+22:47:30
+DEBUG Message: Iteration: 2811
+22:47:30
+DEBUG Message: Iteration: 2812
+22:47:30
+DEBUG Message: Iteration: 2813
+22:47:30
+DEBUG Message: Iteration: 2814
+22:47:30
+DEBUG Message: Iteration: 2815
+22:47:30
+DEBUG Message: Iteration: 2816
+22:47:30
+DEBUG Message: Iteration: 2817
+22:47:30
+DEBUG Message: Iteration: 2818
+22:47:30
+DEBUG Message: Iteration: 2819
+22:47:30
+DEBUG Message: Iteration: 2820
+22:47:30
+DEBUG Message: Iteration: 2821
+22:47:30
+DEBUG Message: Iteration: 2822
+22:47:30
+DEBUG Message: Iteration: 2823
+22:47:30
+DEBUG Message: Iteration: 2824
+22:47:30
+DEBUG Message: Iteration: 2825
+22:47:30
+DEBUG Message: Iteration: 2826
+22:47:30
+DEBUG Message: Iteration: 2827
+22:47:30
+DEBUG Message: Iteration: 2828
+22:47:30
+DEBUG Message: Iteration: 2829
+22:47:30
+DEBUG Message: Iteration: 2830
+22:47:30
+DEBUG Message: Iteration: 2831
+22:47:30
+DEBUG Message: Iteration: 2832
+22:47:30
+DEBUG Message: Iteration: 2833
+22:47:30
+DEBUG Message: Iteration: 2834
+22:47:30
+DEBUG Message: Iteration: 2835
+22:47:30
+DEBUG Message: Iteration: 2836
+22:47:30
+DEBUG Message: Iteration: 2837
+22:47:30
+DEBUG Message: Iteration: 2838
+22:47:30
+DEBUG Message: Iteration: 2839
+22:47:30
+DEBUG Message: Iteration: 2840
+22:47:30
+DEBUG Message: Iteration: 2841
+22:47:30
+DEBUG Message: Iteration: 2842
+22:47:30
+DEBUG Message: Iteration: 2843
+22:47:30
+DEBUG Message: Iteration: 2844
+22:47:30
+DEBUG Message: Iteration: 2845
+22:47:30
+DEBUG Message: Iteration: 2846
+22:47:30
+DEBUG Message: Iteration: 2847
+22:47:30
+DEBUG Message: Iteration: 2848
+22:47:30
+DEBUG Message: Iteration: 2849
+22:47:30
+DEBUG Message: Iteration: 2850
+22:47:30
+DEBUG Message: Iteration: 2851
+22:47:30
+DEBUG Message: Iteration: 2852
+22:47:30
+DEBUG Message: Iteration: 2853
+22:47:30
+DEBUG Message: Iteration: 2854
+22:47:30
+DEBUG Message: Iteration: 2855
+22:47:30
+DEBUG Message: Iteration: 2856
+22:47:30
+DEBUG Message: Iteration: 2857
+22:47:30
+DEBUG Message: Iteration: 2858
+22:47:30
+DEBUG Message: Iteration: 2859
+22:47:30
+DEBUG Message: Iteration: 2860
+22:47:30
+DEBUG Message: Iteration: 2861
+22:47:30
+DEBUG Message: Iteration: 2862
+22:47:30
+DEBUG Message: Iteration: 2863
+22:47:30
+DEBUG Message: Iteration: 2864
+22:47:30
+DEBUG Message: Iteration: 2865
+22:47:30
+DEBUG Message: Iteration: 2866
+22:47:30
+DEBUG Message: Iteration: 2867
+22:47:30
+DEBUG Message: Iteration: 2868
+22:47:30
+DEBUG Message: Iteration: 2869
+22:47:30
+DEBUG Message: Iteration: 2870
+22:47:30
+DEBUG Message: Iteration: 2871
+22:47:30
+DEBUG Message: Iteration: 2872
+22:47:30
+DEBUG Message: Iteration: 2873
+22:47:30
+DEBUG Message: Iteration: 2874
+22:47:30
+DEBUG Message: Iteration: 2875
+22:47:30
+DEBUG Message: Iteration: 2876
+22:47:30
+DEBUG Message: Iteration: 2877
+22:47:30
+DEBUG Message: Iteration: 2878
+22:47:30
+DEBUG Message: Iteration: 2879
+22:47:30
+DEBUG Message: Iteration: 2880
+22:47:30
+DEBUG Message: Iteration: 2881
+22:47:30
+DEBUG Message: Iteration: 2882
+22:47:30
+DEBUG Message: Iteration: 2883
+22:47:30
+DEBUG Message: Iteration: 2884
+22:47:30
+DEBUG Message: Iteration: 2885
+22:47:30
+DEBUG Message: Iteration: 2886
+22:47:30
+DEBUG Message: Iteration: 2887
+22:47:30
+DEBUG Message: Iteration: 2888
+22:47:30
+DEBUG Message: Iteration: 2889
+22:47:30
+DEBUG Message: Iteration: 2890
+22:47:30
+DEBUG Message: Iteration: 2891
+22:47:30
+DEBUG Message: Iteration: 2892
+22:47:30
+DEBUG Message: Iteration: 2893
+22:47:30
+DEBUG Message: Iteration: 2894
+22:47:30
+DEBUG Message: Iteration: 2895
+22:47:30
+DEBUG Message: Iteration: 2896
+22:47:30
+DEBUG Message: Iteration: 2897
+22:47:30
+DEBUG Message: Iteration: 2898
+22:47:30
+DEBUG Message: Iteration: 2899
+22:47:30
+DEBUG Message: Iteration: 2900
+22:47:30
+DEBUG Message: Iteration: 2901
+22:47:30
+DEBUG Message: Iteration: 2902
+22:47:30
+DEBUG Message: Iteration: 2903
+22:47:30
+DEBUG Message: Iteration: 2904
+22:47:30
+DEBUG Message: Iteration: 2905
+22:47:30
+DEBUG Message: Iteration: 2906
+22:47:30
+DEBUG Message: Iteration: 2907
+22:47:30
+DEBUG Message: Iteration: 2908
+22:47:30
+DEBUG Message: Iteration: 2909
+22:47:30
+DEBUG Message: Iteration: 2910
+22:47:30
+DEBUG Message: Iteration: 2911
+22:47:30
+DEBUG Message: Iteration: 2912
+22:47:30
+DEBUG Message: Iteration: 2913
+22:47:30
+DEBUG Message: Iteration: 2914
+22:47:30
+DEBUG Message: Iteration: 2915
+22:47:30
+DEBUG Message: Iteration: 2916
+22:47:30
+DEBUG Message: Iteration: 2917
+22:47:30
+DEBUG Message: Iteration: 2918
+22:47:30
+DEBUG Message: Iteration: 2919
+22:47:30
+DEBUG Message: Iteration: 2920
+22:47:30
+DEBUG Message: Iteration: 2921
+22:47:30
+DEBUG Message: Iteration: 2922
+22:47:30
+DEBUG Message: Iteration: 2923
+22:47:30
+DEBUG Message: Iteration: 2924
+22:47:30
+DEBUG Message: Iteration: 2925
+22:47:30
+DEBUG Message: Iteration: 2926
+22:47:30
+DEBUG Message: Iteration: 2927
+22:47:30
+DEBUG Message: Iteration: 2928
+22:47:30
+DEBUG Message: Iteration: 2929
+22:47:30
+DEBUG Message: Iteration: 2930
+22:47:30
+DEBUG Message: Iteration: 2931
+22:47:30
+DEBUG Message: Iteration: 2932
+22:47:30
+DEBUG Message: Iteration: 2933
+22:47:30
+DEBUG Message: Iteration: 2934
+22:47:30
+DEBUG Message: Iteration: 2935
+22:47:30
+DEBUG Message: Iteration: 2936
+22:47:30
+DEBUG Message: Iteration: 2937
+22:47:30
+DEBUG Message: Iteration: 2938
+22:47:30
+DEBUG Message: Iteration: 2939
+22:47:30
+DEBUG Message: Iteration: 2940
+22:47:30
+DEBUG Message: Iteration: 2941
+22:47:30
+DEBUG Message: Iteration: 2942
+22:47:30
+DEBUG Message: Iteration: 2943
+22:47:30
+DEBUG Message: Iteration: 2944
+22:47:30
+DEBUG Message: Iteration: 2945
+22:47:30
+DEBUG Message: Iteration: 2946
+22:47:30
+DEBUG Message: Iteration: 2947
+22:47:30
+DEBUG Message: Iteration: 2948
+22:47:30
+DEBUG Message: Iteration: 2949
+22:47:30
+DEBUG Message: Iteration: 2950
+22:47:30
+DEBUG Message: Iteration: 2951
+22:47:30
+DEBUG Message: Iteration: 2952
+22:47:30
+DEBUG Message: Iteration: 2953
+22:47:30
+DEBUG Message: Iteration: 2954
+22:47:30
+DEBUG Message: Iteration: 2955
+22:47:30
+DEBUG Message: Iteration: 2956
+22:47:30
+DEBUG Message: Iteration: 2957
+22:47:30
+DEBUG Message: Iteration: 2958
+22:47:30
+DEBUG Message: Iteration: 2959
+22:47:30
+DEBUG Message: Iteration: 2960
+22:47:30
+DEBUG Message: Iteration: 2961
+22:47:30
+DEBUG Message: Iteration: 2962
+22:47:30
+DEBUG Message: Iteration: 2963
+22:47:30
+DEBUG Message: Iteration: 2964
+22:47:30
+DEBUG Message: Iteration: 2965
+22:47:30
+DEBUG Message: Iteration: 2966
+22:47:30
+DEBUG Message: Iteration: 2967
+22:47:30
+DEBUG Message: Iteration: 2968
+22:47:30
+DEBUG Message: Iteration: 2969
+22:47:30
+DEBUG Message: Iteration: 2970
+22:47:30
+DEBUG Message: Iteration: 2971
+22:47:30
+DEBUG Message: Iteration: 2972
+22:47:30
+DEBUG Message: Iteration: 2973
+22:47:30
+DEBUG Message: Iteration: 2974
+22:47:30
+DEBUG Message: Iteration: 2975
+22:47:30
+DEBUG Message: Iteration: 2976
+22:47:30
+DEBUG Message: Iteration: 2977
+22:47:30
+DEBUG Message: Iteration: 2978
+22:47:30
+DEBUG Message: Iteration: 2979
+22:47:30
+DEBUG Message: Iteration: 2980
+22:47:30
+DEBUG Message: Iteration: 2981
+22:47:30
+DEBUG Message: Iteration: 2982
+22:47:30
+DEBUG Message: Iteration: 2983
+22:47:30
+DEBUG Message: Iteration: 2984
+22:47:30
+DEBUG Message: Iteration: 2985
+22:47:30
+DEBUG Message: Iteration: 2986
+22:47:30
+DEBUG Message: Iteration: 2987
+22:47:30
+DEBUG Message: Iteration: 2988
+22:47:30
+DEBUG Message: Iteration: 2989
+22:47:30
+DEBUG Message: Iteration: 2990
+22:47:30
+DEBUG Message: Iteration: 2991
+22:47:30
+DEBUG Message: Iteration: 2992
+22:47:30
+DEBUG Message: Iteration: 2993
+22:47:30
+DEBUG Message: Iteration: 2994
+22:47:30
+DEBUG Message: Iteration: 2995
+22:47:30
+DEBUG Message: Iteration: 2996
+22:47:30
+DEBUG Message: Iteration: 2997
+22:47:30
+DEBUG Message: Iteration: 2998
+22:47:30
+DEBUG Message: Iteration: 2999
+22:47:30
+DEBUG Message: Iteration: 3000
+22:47:30
+DEBUG Message: Iteration: 3001
+22:47:30
+DEBUG Message: Iteration: 3002
+22:47:30
+DEBUG Message: Iteration: 3003
+22:47:30
+DEBUG Message: Iteration: 3004
+22:47:30
+DEBUG Message: Iteration: 3005
+22:47:30
+DEBUG Message: Iteration: 3006
+22:47:30
+DEBUG Message: Iteration: 3007
+22:47:30
+DEBUG Message: Iteration: 3008
+22:47:30
+DEBUG Message: Iteration: 3009
+22:47:30
+DEBUG Message: Iteration: 3010
+22:47:30
+DEBUG Message: Iteration: 3011
+22:47:30
+DEBUG Message: Iteration: 3012
+22:47:30
+DEBUG Message: Iteration: 3013
+22:47:30
+DEBUG Message: Iteration: 3014
+22:47:30
+DEBUG Message: Iteration: 3015
+22:47:30
+DEBUG Message: Iteration: 3016
+22:47:30
+DEBUG Message: Iteration: 3017
+22:47:30
+DEBUG Message: Iteration: 3018
+22:47:30
+DEBUG Message: Iteration: 3019
+22:47:30
+DEBUG Message: Iteration: 3020
+22:47:30
+DEBUG Message: Iteration: 3021
+22:47:30
+DEBUG Message: Iteration: 3022
+22:47:30
+DEBUG Message: Iteration: 3023
+22:47:30
+DEBUG Message: Iteration: 3024
+22:47:30
+DEBUG Message: Iteration: 3025
+22:47:30
+DEBUG Message: Iteration: 3026
+22:47:30
+DEBUG Message: Iteration: 3027
+22:47:30
+DEBUG Message: Iteration: 3028
+22:47:30
+DEBUG Message: Iteration: 3029
+22:47:30
+DEBUG Message: Iteration: 3030
+22:47:30
+DEBUG Message: Iteration: 3031
+22:47:30
+DEBUG Message: Iteration: 3032
+22:47:30
+DEBUG Message: Iteration: 3033
+22:47:30
+DEBUG Message: Iteration: 3034
+22:47:30
+DEBUG Message: Iteration: 3035
+22:47:30
+DEBUG Message: Iteration: 3036
+22:47:30
+DEBUG Message: Iteration: 3037
+22:47:30
+DEBUG Message: Iteration: 3038
+22:47:30
+DEBUG Message: Iteration: 3039
+22:47:30
+DEBUG Message: Iteration: 3040
+22:47:30
+DEBUG Message: Iteration: 3041
+22:47:30
+DEBUG Message: Iteration: 3042
+22:47:30
+DEBUG Message: Iteration: 3043
+22:47:30
+DEBUG Message: Iteration: 3044
+22:47:30
+DEBUG Message: Iteration: 3045
+22:47:30
+DEBUG Message: Iteration: 3046
+22:47:30
+DEBUG Message: Iteration: 3047
+22:47:30
+DEBUG Message: Iteration: 3048
+22:47:30
+DEBUG Message: Iteration: 3049
+22:47:30
+DEBUG Message: Iteration: 3050
+22:47:30
+DEBUG Message: Iteration: 3051
+22:47:30
+DEBUG Message: Iteration: 3052
+22:47:30
+DEBUG Message: Iteration: 3053
+22:47:30
+DEBUG Message: Iteration: 3054
+22:47:30
+DEBUG Message: Iteration: 3055
+22:47:30
+DEBUG Message: Iteration: 3056
+22:47:30
+DEBUG Message: Iteration: 3057
+22:47:30
+DEBUG Message: Iteration: 3058
+22:47:30
+DEBUG Message: Iteration: 3059
+22:47:30
+DEBUG Message: Iteration: 3060
+22:47:30
+DEBUG Message: Iteration: 3061
+22:47:30
+DEBUG Message: Iteration: 3062
+22:47:30
+DEBUG Message: Iteration: 3063
+22:47:30
+DEBUG Message: Iteration: 3064
+22:47:30
+DEBUG Message: Iteration: 3065
+22:47:30
+DEBUG Message: Iteration: 3066
+22:47:30
+DEBUG Message: Iteration: 3067
+22:47:30
+DEBUG Message: Iteration: 3068
+22:47:30
+DEBUG Message: Iteration: 3069
+22:47:30
+DEBUG Message: Iteration: 3070
+22:47:30
+DEBUG Message: Iteration: 3071
+22:47:30
+DEBUG Message: Iteration: 3072
+22:47:30
+DEBUG Message: Iteration: 3073
+22:47:30
+DEBUG Message: Iteration: 3074
+22:47:30
+DEBUG Message: Iteration: 3075
+22:47:30
+DEBUG Message: Iteration: 3076
+22:47:30
+DEBUG Message: Iteration: 3077
+22:47:30
+DEBUG Message: Iteration: 3078
+22:47:30
+DEBUG Message: Iteration: 3079
+22:47:30
+DEBUG Message: Iteration: 3080
+22:47:30
+DEBUG Message: Iteration: 3081
+22:47:30
+DEBUG Message: Iteration: 3082
+22:47:30
+DEBUG Message: Iteration: 3083
+22:47:30
+DEBUG Message: Iteration: 3084
+22:47:30
+DEBUG Message: Iteration: 3085
+22:47:30
+DEBUG Message: Iteration: 3086
+22:47:30
+DEBUG Message: Iteration: 3087
+22:47:30
+DEBUG Message: Iteration: 3088
+22:47:30
+DEBUG Message: Iteration: 3089
+22:47:30
+DEBUG Message: Iteration: 3090
+22:47:30
+DEBUG Message: Iteration: 3091
+22:47:30
+DEBUG Message: Iteration: 3092
+22:47:30
+DEBUG Message: Iteration: 3093
+22:47:30
+DEBUG Message: Iteration: 3094
+22:47:30
+DEBUG Message: Iteration: 3095
+22:47:30
+DEBUG Message: Iteration: 3096
+22:47:30
+DEBUG Message: Iteration: 3097
+22:47:30
+DEBUG Message: Iteration: 3098
+22:47:30
+DEBUG Message: Iteration: 3099
+22:47:30
+DEBUG Message: Iteration: 3100
+22:47:30
+DEBUG Message: Iteration: 3101
+22:47:30
+DEBUG Message: Iteration: 3102
+22:47:30
+DEBUG Message: Iteration: 3103
+22:47:30
+DEBUG Message: Iteration: 3104
+22:47:30
+DEBUG Message: Iteration: 3105
+22:47:30
+DEBUG Message: Iteration: 3106
+22:47:30
+DEBUG Message: Iteration: 3107
+22:47:30
+DEBUG Message: Iteration: 3108
+22:47:30
+DEBUG Message: Iteration: 3109
+22:47:30
+DEBUG Message: Iteration: 3110
+22:47:30
+DEBUG Message: Iteration: 3111
+22:47:30
+DEBUG Message: Iteration: 3112
+22:47:30
+DEBUG Message: Iteration: 3113
+22:47:30
+DEBUG Message: Iteration: 3114
+22:47:30
+DEBUG Message: Iteration: 3115
+22:47:30
+DEBUG Message: Iteration: 3116
+22:47:30
+DEBUG Message: Iteration: 3117
+22:47:30
+DEBUG Message: Iteration: 3118
+22:47:30
+DEBUG Message: Iteration: 3119
+22:47:30
+DEBUG Message: Iteration: 3120
+22:47:30
+DEBUG Message: Iteration: 3121
+22:47:30
+DEBUG Message: Iteration: 3122
+22:47:30
+DEBUG Message: Iteration: 3123
+22:47:30
+DEBUG Message: Iteration: 3124
+22:47:30
+DEBUG Message: Iteration: 3125
+22:47:30
+DEBUG Message: Iteration: 3126
+22:47:30
+DEBUG Message: Iteration: 3127
+22:47:30
+DEBUG Message: Iteration: 3128
+22:47:30
+DEBUG Message: Iteration: 3129
+22:47:30
+DEBUG Message: Iteration: 3130
+22:47:30
+DEBUG Message: Iteration: 3131
+22:47:30
+DEBUG Message: Iteration: 3132
+22:47:30
+DEBUG Message: Iteration: 3133
+22:47:30
+DEBUG Message: Iteration: 3134
+22:47:30
+DEBUG Message: Iteration: 3135
+22:47:30
+DEBUG Message: Iteration: 3136
+22:47:30
+DEBUG Message: Iteration: 3137
+22:47:30
+DEBUG Message: Iteration: 3138
+22:47:30
+DEBUG Message: Iteration: 3139
+22:47:30
+DEBUG Message: Iteration: 3140
+22:47:30
+DEBUG Message: Iteration: 3141
+22:47:30
+DEBUG Message: Iteration: 3142
+22:47:30
+DEBUG Message: Iteration: 3143
+22:47:30
+DEBUG Message: Iteration: 3144
+22:47:30
+DEBUG Message: Iteration: 3145
+22:47:30
+DEBUG Message: Iteration: 3146
+22:47:30
+DEBUG Message: Iteration: 3147
+22:47:30
+DEBUG Message: Iteration: 3148
+22:47:30
+DEBUG Message: Iteration: 3149
+22:47:30
+DEBUG Message: Iteration: 3150
+22:47:30
+DEBUG Message: Iteration: 3151
+22:47:30
+DEBUG Message: Iteration: 3152
+22:47:30
+DEBUG Message: Iteration: 3153
+22:47:30
+DEBUG Message: Iteration: 3154
+22:47:30
+DEBUG Message: Iteration: 3155
+22:47:30
+DEBUG Message: Iteration: 3156
+22:47:30
+DEBUG Message: Iteration: 3157
+22:47:30
+DEBUG Message: Iteration: 3158
+22:47:30
+DEBUG Message: Iteration: 3159
+22:47:30
+DEBUG Message: Iteration: 3160
+22:47:30
+DEBUG Message: Iteration: 3161
+22:47:30
+DEBUG Message: Iteration: 3162
+22:47:30
+DEBUG Message: Iteration: 3163
+22:47:30
+DEBUG Message: Iteration: 3164
+22:47:30
+DEBUG Message: Iteration: 3165
+22:47:30
+DEBUG Message: Iteration: 3166
+22:47:30
+DEBUG Message: Iteration: 3167
+22:47:30
+DEBUG Message: Iteration: 3168
+22:47:30
+DEBUG Message: Iteration: 3169
+22:47:30
+DEBUG Message: Iteration: 3170
+22:47:30
+DEBUG Message: Iteration: 3171
+22:47:30
+DEBUG Message: Iteration: 3172
+22:47:30
+DEBUG Message: Iteration: 3173
+22:47:30
+DEBUG Message: Iteration: 3174
+22:47:30
+DEBUG Message: Iteration: 3175
+22:47:30
+DEBUG Message: Iteration: 3176
+22:47:30
+DEBUG Message: Iteration: 3177
+22:47:30
+DEBUG Message: Iteration: 3178
+22:47:30
+DEBUG Message: Iteration: 3179
+22:47:30
+DEBUG Message: Iteration: 3180
+22:47:30
+DEBUG Message: Iteration: 3181
+22:47:30
+DEBUG Message: Iteration: 3182
+22:47:30
+DEBUG Message: Iteration: 3183
+22:47:30
+DEBUG Message: Iteration: 3184
+22:47:30
+DEBUG Message: Iteration: 3185
+22:47:30
+DEBUG Message: Iteration: 3186
+22:47:30
+DEBUG Message: Iteration: 3187
+22:47:30
+DEBUG Message: Iteration: 3188
+22:47:30
+DEBUG Message: Iteration: 3189
+22:47:30
+DEBUG Message: Iteration: 3190
+22:47:30
+DEBUG Message: Iteration: 3191
+22:47:30
+DEBUG Message: Iteration: 3192
+22:47:30
+DEBUG Message: Iteration: 3193
+22:47:30
+DEBUG Message: Iteration: 3194
+22:47:30
+DEBUG Message: Iteration: 3195
+22:47:30
+DEBUG Message: Iteration: 3196
+22:47:30
+DEBUG Message: Iteration: 3197
+22:47:30
+DEBUG Message: Iteration: 3198
+22:47:30
+DEBUG Message: Iteration: 3199
+22:47:30
+DEBUG Message: Iteration: 3200
+22:47:30
+DEBUG Message: Iteration: 3201
+22:47:30
+DEBUG Message: Iteration: 3202
+22:47:30
+DEBUG Message: Iteration: 3203
+22:47:30
+DEBUG Message: Iteration: 3204
+22:47:30
+DEBUG Message: Iteration: 3205
+22:47:30
+DEBUG Message: Iteration: 3206
+22:47:30
+DEBUG Message: Iteration: 3207
+22:47:30
+DEBUG Message: Iteration: 3208
+22:47:30
+DEBUG Message: Iteration: 3209
+22:47:30
+DEBUG Message: Iteration: 3210
+22:47:30
+DEBUG Message: Iteration: 3211
+22:47:30
+DEBUG Message: Iteration: 3212
+22:47:30
+DEBUG Message: Iteration: 3213
+22:47:30
+DEBUG Message: Iteration: 3214
+22:47:30
+DEBUG Message: Iteration: 3215
+22:47:30
+DEBUG Message: Iteration: 3216
+22:47:30
+DEBUG Message: Iteration: 3217
+22:47:30
+DEBUG Message: Iteration: 3218
+22:47:30
+DEBUG Message: Iteration: 3219
+22:47:30
+DEBUG Message: Iteration: 3220
+22:47:30
+DEBUG Message: Iteration: 3221
+22:47:30
+DEBUG Message: Iteration: 3222
+22:47:30
+DEBUG Message: Iteration: 3223
+22:47:30
+DEBUG Message: Iteration: 3224
+22:47:30
+DEBUG Message: Iteration: 3225
+22:47:30
+DEBUG Message: Iteration: 3226
+22:47:30
+DEBUG Message: Iteration: 3227
+22:47:30
+DEBUG Message: Iteration: 3228
+22:47:30
+DEBUG Message: Iteration: 3229
+22:47:30
+DEBUG Message: Iteration: 3230
+22:47:30
+DEBUG Message: Iteration: 3231
+22:47:30
+DEBUG Message: Iteration: 3232
+22:47:30
+DEBUG Message: Iteration: 3233
+22:47:30
+DEBUG Message: Iteration: 3234
+22:47:30
+DEBUG Message: Iteration: 3235
+22:47:30
+DEBUG Message: Iteration: 3236
+22:47:30
+DEBUG Message: Iteration: 3237
+22:47:30
+DEBUG Message: Iteration: 3238
+22:47:30
+DEBUG Message: Iteration: 3239
+22:47:30
+DEBUG Message: Iteration: 3240
+22:47:30
+DEBUG Message: Iteration: 3241
+22:47:30
+DEBUG Message: Iteration: 3242
+22:47:30
+DEBUG Message: Iteration: 3243
+22:47:30
+DEBUG Message: Iteration: 3244
+22:47:30
+DEBUG Message: Iteration: 3245
+22:47:30
+DEBUG Message: Iteration: 3246
+22:47:30
+DEBUG Message: Iteration: 3247
+22:47:30
+DEBUG Message: Iteration: 3248
+22:47:30
+DEBUG Message: Iteration: 3249
+22:47:30
+DEBUG Message: Iteration: 3250
+22:47:30
+DEBUG Message: Iteration: 3251
+22:47:30
+DEBUG Message: Iteration: 3252
+22:47:30
+DEBUG Message: Iteration: 3253
+22:47:30
+DEBUG Message: Iteration: 3254
+22:47:30
+DEBUG Message: Iteration: 3255
+22:47:30
+DEBUG Message: Iteration: 3256
+22:47:30
+DEBUG Message: Iteration: 3257
+22:47:30
+DEBUG Message: Iteration: 3258
+22:47:30
+DEBUG Message: Iteration: 3259
+22:47:30
+DEBUG Message: Iteration: 3260
+22:47:30
+DEBUG Message: Iteration: 3261
+22:47:30
+DEBUG Message: Iteration: 3262
+22:47:30
+DEBUG Message: Iteration: 3263
+22:47:30
+DEBUG Message: Iteration: 3264
+22:47:30
+DEBUG Message: Iteration: 3265
+22:47:30
+DEBUG Message: Iteration: 3266
+22:47:30
+DEBUG Message: Iteration: 3267
+22:47:30
+DEBUG Message: Iteration: 3268
+22:47:30
+DEBUG Message: Iteration: 3269
+22:47:30
+DEBUG Message: Iteration: 3270
+22:47:30
+DEBUG Message: Iteration: 3271
+22:47:30
+DEBUG Message: Iteration: 3272
+22:47:30
+DEBUG Message: Iteration: 3273
+22:47:30
+DEBUG Message: Iteration: 3274
+22:47:30
+DEBUG Message: Iteration: 3275
+22:47:30
+DEBUG Message: Iteration: 3276
+22:47:30
+DEBUG Message: Iteration: 3277
+22:47:30
+DEBUG Message: Iteration: 3278
+22:47:30
+DEBUG Message: Iteration: 3279
+22:47:30
+DEBUG Message: Iteration: 3280
+22:47:30
+DEBUG Message: Iteration: 3281
+22:47:30
+DEBUG Message: Iteration: 3282
+22:47:30
+DEBUG Message: Iteration: 3283
+22:47:30
+DEBUG Message: Iteration: 3284
+22:47:30
+DEBUG Message: Iteration: 3285
+22:47:30
+DEBUG Message: Iteration: 3286
+22:47:30
+DEBUG Message: Iteration: 3287
+22:47:30
+DEBUG Message: Iteration: 3288
+22:47:30
+DEBUG Message: Iteration: 3289
+22:47:30
+DEBUG Message: Iteration: 3290
+22:47:30
+DEBUG Message: Iteration: 3291
+22:47:30
+DEBUG Message: Iteration: 3292
+22:47:30
+DEBUG Message: Iteration: 3293
+22:47:30
+DEBUG Message: Iteration: 3294
+22:47:30
+DEBUG Message: Iteration: 3295
+22:47:30
+DEBUG Message: Iteration: 3296
+22:47:30
+DEBUG Message: Iteration: 3297
+22:47:30
+DEBUG Message: Iteration: 3298
+22:47:30
+DEBUG Message: Iteration: 3299
+22:47:30
+DEBUG Message: Iteration: 3300
+22:47:30
+DEBUG Message: Iteration: 3301
+22:47:30
+DEBUG Message: Iteration: 3302
+22:47:30
+DEBUG Message: Iteration: 3303
+22:47:30
+DEBUG Message: Iteration: 3304
+22:47:30
+DEBUG Message: Iteration: 3305
+22:47:30
+DEBUG Message: Iteration: 3306
+22:47:30
+DEBUG Message: Iteration: 3307
+22:47:30
+DEBUG Message: Iteration: 3308
+22:47:30
+DEBUG Message: Iteration: 3309
+22:47:30
+DEBUG Message: Iteration: 3310
+22:47:30
+DEBUG Message: Iteration: 3311
+22:47:30
+DEBUG Message: Iteration: 3312
+22:47:30
+DEBUG Message: Iteration: 3313
+22:47:30
+DEBUG Message: Iteration: 3314
+22:47:30
+DEBUG Message: Iteration: 3315
+22:47:30
+DEBUG Message: Iteration: 3316
+22:47:30
+DEBUG Message: Iteration: 3317
+22:47:30
+DEBUG Message: Iteration: 3318
+22:47:30
+DEBUG Message: Iteration: 3319
+22:47:30
+DEBUG Message: Iteration: 3320
+22:47:30
+DEBUG Message: Iteration: 3321
+22:47:30
+DEBUG Message: Iteration: 3322
+22:47:30
+DEBUG Message: Iteration: 3323
+22:47:30
+DEBUG Message: Iteration: 3324
+22:47:30
+DEBUG Message: Iteration: 3325
+22:47:30
+DEBUG Message: Iteration: 3326
+22:47:30
+DEBUG Message: Iteration: 3327
+22:47:30
+DEBUG Message: Iteration: 3328
+22:47:30
+DEBUG Message: Iteration: 3329
+22:47:30
+DEBUG Message: Iteration: 3330
+22:47:30
+DEBUG Message: Iteration: 3331
+22:47:30
+DEBUG Message: Iteration: 3332
+22:47:30
+DEBUG Message: Iteration: 3333
+22:47:30
+DEBUG Message: Iteration: 3334
+22:47:30
+DEBUG Message: Iteration: 3335
+22:47:30
+DEBUG Message: Iteration: 3336
+22:47:30
+DEBUG Message: Iteration: 3337
+22:47:30
+DEBUG Message: Iteration: 3338
+22:47:30
+DEBUG Message: Iteration: 3339
+22:47:30
+DEBUG Message: Iteration: 3340
+22:47:30
+DEBUG Message: Iteration: 3341
+22:47:30
+DEBUG Message: Iteration: 3342
+22:47:30
+DEBUG Message: Iteration: 3343
+22:47:30
+DEBUG Message: Iteration: 3344
+22:47:30
+DEBUG Message: Iteration: 3345
+22:47:30
+DEBUG Message: Iteration: 3346
+22:47:30
+DEBUG Message: Iteration: 3347
+22:47:30
+DEBUG Message: Iteration: 3348
+22:47:30
+DEBUG Message: Iteration: 3349
+22:47:30
+DEBUG Message: Iteration: 3350
+22:47:30
+DEBUG Message: Iteration: 3351
+22:47:30
+DEBUG Message: Iteration: 3352
+22:47:30
+DEBUG Message: Iteration: 3353
+22:47:30
+DEBUG Message: Iteration: 3354
+22:47:30
+DEBUG Message: Iteration: 3355
+22:47:30
+DEBUG Message: Iteration: 3356
+22:47:30
+DEBUG Message: Iteration: 3357
+22:47:30
+DEBUG Message: Iteration: 3358
+22:47:30
+DEBUG Message: Iteration: 3359
+22:47:30
+DEBUG Message: Iteration: 3360
+22:47:30
+DEBUG Message: Iteration: 3361
+22:47:30
+DEBUG Message: Iteration: 3362
+22:47:30
+DEBUG Message: Iteration: 3363
+22:47:30
+DEBUG Message: Iteration: 3364
+22:47:30
+DEBUG Message: Iteration: 3365
+22:47:30
+DEBUG Message: Iteration: 3366
+22:47:30
+DEBUG Message: Iteration: 3367
+22:47:30
+DEBUG Message: Iteration: 3368
+22:47:30
+DEBUG Message: Iteration: 3369
+22:47:30
+DEBUG Message: Iteration: 3370
+22:47:30
+DEBUG Message: Iteration: 3371
+22:47:30
+DEBUG Message: Iteration: 3372
+22:47:30
+DEBUG Message: Iteration: 3373
+22:47:30
+DEBUG Message: Iteration: 3374
+22:47:30
+DEBUG Message: Iteration: 3375
+22:47:30
+DEBUG Message: Iteration: 3376
+22:47:30
+DEBUG Message: Iteration: 3377
+22:47:30
+DEBUG Message: Iteration: 3378
+22:47:30
+DEBUG Message: Iteration: 3379
+22:47:30
+DEBUG Message: Iteration: 3380
+22:47:30
+DEBUG Message: Iteration: 3381
+22:47:30
+DEBUG Message: Iteration: 3382
+22:47:30
+DEBUG Message: Iteration: 3383
+22:47:30
+DEBUG Message: Iteration: 3384
+22:47:30
+DEBUG Message: Iteration: 3385
+22:47:30
+DEBUG Message: Iteration: 3386
+22:47:30
+DEBUG Message: Iteration: 3387
+22:47:30
+DEBUG Message: Iteration: 3388
+22:47:30
+DEBUG Message: Iteration: 3389
+22:47:30
+DEBUG Message: Iteration: 3390
+22:47:30
+DEBUG Message: Iteration: 3391
+22:47:30
+DEBUG Message: Iteration: 3392
+22:47:30
+DEBUG Message: Iteration: 3393
+22:47:30
+DEBUG Message: Iteration: 3394
+22:47:30
+DEBUG Message: Iteration: 3395
+22:47:30
+DEBUG Message: Iteration: 3396
+22:47:30
+DEBUG Message: Iteration: 3397
+22:47:30
+DEBUG Message: Iteration: 3398
+22:47:30
+DEBUG Message: Iteration: 3399
+22:47:30
+DEBUG Message: Iteration: 3400
+22:47:30
+DEBUG Message: Iteration: 3401
+22:47:30
+DEBUG Message: Iteration: 3402
+22:47:30
+DEBUG Message: Iteration: 3403
+22:47:30
+DEBUG Message: Iteration: 3404
+22:47:30
+DEBUG Message: Iteration: 3405
+22:47:30
+DEBUG Message: Iteration: 3406
+22:47:30
+DEBUG Message: Iteration: 3407
+22:47:30
+DEBUG Message: Iteration: 3408
+22:47:30
+DEBUG Message: Iteration: 3409
+22:47:30
+DEBUG Message: Iteration: 3410
+22:47:30
+DEBUG Message: Iteration: 3411
+22:47:30
+DEBUG Message: Iteration: 3412
+22:47:30
+DEBUG Message: Iteration: 3413
+22:47:30
+DEBUG Message: Iteration: 3414
+22:47:30
+DEBUG Message: Iteration: 3415
+22:47:30
+DEBUG Message: Iteration: 3416
+22:47:30
+DEBUG Message: Iteration: 3417
+22:47:30
+DEBUG Message: Iteration: 3418
+22:47:30
+DEBUG Message: Iteration: 3419
+22:47:30
+DEBUG Message: Iteration: 3420
+22:47:30
+DEBUG Message: Iteration: 3421
+22:47:30
+DEBUG Message: Iteration: 3422
+22:47:30
+DEBUG Message: Iteration: 3423
+22:47:30
+DEBUG Message: Iteration: 3424
+22:47:30
+DEBUG Message: Iteration: 3425
+22:47:30
+DEBUG Message: Iteration: 3426
+22:47:30
+DEBUG Message: Iteration: 3427
+22:47:30
+DEBUG Message: Iteration: 3428
+22:47:30
+DEBUG Message: Iteration: 3429
+22:47:30
+DEBUG Message: Iteration: 3430
+22:47:30
+DEBUG Message: Iteration: 3431
+22:47:30
+DEBUG Message: Iteration: 3432
+22:47:30
+DEBUG Message: Iteration: 3433
+22:47:30
+DEBUG Message: Iteration: 3434
+22:47:30
+DEBUG Message: Iteration: 3435
+22:47:30
+DEBUG Message: Iteration: 3436
+22:47:30
+DEBUG Message: Iteration: 3437
+22:47:30
+DEBUG Message: Iteration: 3438
+22:47:30
+DEBUG Message: Iteration: 3439
+22:47:30
+DEBUG Message: Iteration: 3440
+22:47:30
+DEBUG Message: Iteration: 3441
+22:47:30
+DEBUG Message: Iteration: 3442
+22:47:30
+DEBUG Message: Iteration: 3443
+22:47:30
+DEBUG Message: Iteration: 3444
+22:47:30
+DEBUG Message: Iteration: 3445
+22:47:30
+DEBUG Message: Iteration: 3446
+22:47:30
+DEBUG Message: Iteration: 3447
+22:47:30
+DEBUG Message: Iteration: 3448
+22:47:30
+DEBUG Message: Iteration: 3449
+22:47:30
+DEBUG Message: Iteration: 3450
+22:47:30
+DEBUG Message: Iteration: 3451
+22:47:30
+DEBUG Message: Iteration: 3452
+22:47:30
+DEBUG Message: Iteration: 3453
+22:47:30
+DEBUG Message: Iteration: 3454
+22:47:30
+DEBUG Message: Iteration: 3455
+22:47:30
+DEBUG Message: Iteration: 3456
+22:47:30
+DEBUG Message: Iteration: 3457
+22:47:30
+DEBUG Message: Iteration: 3458
+22:47:30
+DEBUG Message: Iteration: 3459
+22:47:30
+DEBUG Message: Iteration: 3460
+22:47:30
+DEBUG Message: Iteration: 3461
+22:47:30
+DEBUG Message: Iteration: 3462
+22:47:30
+DEBUG Message: Iteration: 3463
+22:47:30
+DEBUG Message: Iteration: 3464
+22:47:30
+DEBUG Message: Iteration: 3465
+22:47:30
+DEBUG Message: Iteration: 3466
+22:47:30
+DEBUG Message: Iteration: 3467
+22:47:30
+DEBUG Message: Iteration: 3468
+22:47:30
+DEBUG Message: Iteration: 3469
+22:47:30
+DEBUG Message: Iteration: 3470
+22:47:30
+DEBUG Message: Iteration: 3471
+22:47:30
+DEBUG Message: Iteration: 3472
+22:47:30
+DEBUG Message: Iteration: 3473
+22:47:30
+DEBUG Message: Iteration: 3474
+22:47:30
+DEBUG Message: Iteration: 3475
+22:47:30
+DEBUG Message: Iteration: 3476
+22:47:30
+DEBUG Message: Iteration: 3477
+22:47:30
+DEBUG Message: Iteration: 3478
+22:47:30
+DEBUG Message: Iteration: 3479
+22:47:30
+DEBUG Message: Iteration: 3480
+22:47:30
+DEBUG Message: Iteration: 3481
+22:47:30
+DEBUG Message: Iteration: 3482
+22:47:30
+DEBUG Message: Iteration: 3483
+22:47:30
+DEBUG Message: Iteration: 3484
+22:47:30
+DEBUG Message: Iteration: 3485
+22:47:30
+DEBUG Message: Iteration: 3486
+22:47:30
+DEBUG Message: Iteration: 3487
+22:47:30
+DEBUG Message: Iteration: 3488
+22:47:30
+DEBUG Message: Iteration: 3489
+22:47:30
+DEBUG Message: Iteration: 3490
+22:47:30
+DEBUG Message: Iteration: 3491
+22:47:30
+DEBUG Message: Iteration: 3492
+22:47:30
+DEBUG Message: Iteration: 3493
+22:47:30
+DEBUG Message: Iteration: 3494
+22:47:30
+DEBUG Message: Iteration: 3495
+22:47:30
+DEBUG Message: Iteration: 3496
+22:47:30
+DEBUG Message: Iteration: 3497
+22:47:30
+DEBUG Message: Iteration: 3498
+22:47:30
+DEBUG Message: Iteration: 3499
+22:47:30
+DEBUG Message: Iteration: 3500
+22:47:30
+DEBUG Message: Iteration: 3501
+22:47:30
+DEBUG Message: Iteration: 3502
+22:47:30
+DEBUG Message: Iteration: 3503
+22:47:30
+DEBUG Message: Iteration: 3504
+22:47:30
+DEBUG Message: Iteration: 3505
+22:47:30
+DEBUG Message: Iteration: 3506
+22:47:30
+DEBUG Message: Iteration: 3507
+22:47:30
+DEBUG Message: Iteration: 3508
+22:47:30
+DEBUG Message: Iteration: 3509
+22:47:30
+DEBUG Message: Iteration: 3510
+22:47:30
+DEBUG Message: Iteration: 3511
+22:47:30
+DEBUG Message: Iteration: 3512
+22:47:30
+DEBUG Message: Iteration: 3513
+22:47:30
+DEBUG Message: Iteration: 3514
+22:47:30
+DEBUG Message: Iteration: 3515
+22:47:30
+DEBUG Message: Iteration: 3516
+22:47:30
+DEBUG Message: Iteration: 3517
+22:47:30
+DEBUG Message: Iteration: 3518
+22:47:30
+DEBUG Message: Iteration: 3519
+22:47:30
+DEBUG Message: Iteration: 3520
+22:47:30
+DEBUG Message: Iteration: 3521
+22:47:30
+DEBUG Message: Iteration: 3522
+22:47:30
+DEBUG Message: Iteration: 3523
+22:47:30
+DEBUG Message: Iteration: 3524
+22:47:30
+DEBUG Message: Iteration: 3525
+22:47:30
+DEBUG Message: Iteration: 3526
+22:47:30
+DEBUG Message: Iteration: 3527
+22:47:30
+DEBUG Message: Iteration: 3528
+22:47:30
+DEBUG Message: Iteration: 3529
+22:47:30
+DEBUG Message: Iteration: 3530
+22:47:30
+DEBUG Message: Iteration: 3531
+22:47:30
+DEBUG Message: Iteration: 3532
+22:47:30
+DEBUG Message: Iteration: 3533
+22:47:30
+DEBUG Message: Iteration: 3534
+22:47:30
+DEBUG Message: Iteration: 3535
+22:47:30
+DEBUG Message: Iteration: 3536
+22:47:30
+DEBUG Message: Iteration: 3537
+22:47:30
+DEBUG Message: Iteration: 3538
+22:47:30
+DEBUG Message: Iteration: 3539
+22:47:30
+DEBUG Message: Iteration: 3540
+22:47:30
+DEBUG Message: Iteration: 3541
+22:47:30
+DEBUG Message: Iteration: 3542
+22:47:30
+DEBUG Message: Iteration: 3543
+22:47:30
+DEBUG Message: Iteration: 3544
+22:47:30
+DEBUG Message: Iteration: 3545
+22:47:30
+DEBUG Message: Iteration: 3546
+22:47:30
+DEBUG Message: Iteration: 3547
+22:47:30
+DEBUG Message: Iteration: 3548
+22:47:30
+DEBUG Message: Iteration: 3549
+22:47:30
+DEBUG Message: Iteration: 3550
+22:47:30
+DEBUG Message: Iteration: 3551
+22:47:30
+DEBUG Message: Iteration: 3552
+22:47:30
+DEBUG Message: Iteration: 3553
+22:47:30
+DEBUG Message: Iteration: 3554
+22:47:30
+DEBUG Message: Iteration: 3555
+22:47:30
+DEBUG Message: Iteration: 3556
+22:47:30
+DEBUG Message: Iteration: 3557
+22:47:30
+DEBUG Message: Iteration: 3558
+22:47:30
+DEBUG Message: Iteration: 3559
+22:47:30
+DEBUG Message: Iteration: 3560
+22:47:30
+DEBUG Message: Iteration: 3561
+22:47:30
+DEBUG Message: Iteration: 3562
+22:47:30
+DEBUG Message: Iteration: 3563
+22:47:30
+DEBUG Message: Iteration: 3564
+22:47:30
+DEBUG Message: Iteration: 3565
+22:47:30
+DEBUG Message: Iteration: 3566
+22:47:30
+DEBUG Message: Iteration: 3567
+22:47:30
+DEBUG Message: Iteration: 3568
+22:47:30
+DEBUG Message: Iteration: 3569
+22:47:30
+DEBUG Message: Iteration: 3570
+22:47:30
+DEBUG Message: Iteration: 3571
+22:47:30
+DEBUG Message: Iteration: 3572
+22:47:30
+DEBUG Message: Iteration: 3573
+22:47:30
+DEBUG Message: Iteration: 3574
+22:47:30
+DEBUG Message: Iteration: 3575
+22:47:30
+DEBUG Message: Iteration: 3576
+22:47:30
+DEBUG Message: Iteration: 3577
+22:47:30
+DEBUG Message: Iteration: 3578
+22:47:30
+DEBUG Message: Iteration: 3579
+22:47:30
+DEBUG Message: Iteration: 3580
+22:47:30
+DEBUG Message: Iteration: 3581
+22:47:30
+DEBUG Message: Iteration: 3582
+22:47:30
+DEBUG Message: Iteration: 3583
+22:47:30
+DEBUG Message: Iteration: 3584
+22:47:30
+DEBUG Message: Iteration: 3585
+22:47:30
+DEBUG Message: Iteration: 3586
+22:47:30
+DEBUG Message: Iteration: 3587
+22:47:30
+DEBUG Message: Iteration: 3588
+22:47:30
+DEBUG Message: Iteration: 3589
+22:47:30
+DEBUG Message: Iteration: 3590
+22:47:30
+DEBUG Message: Iteration: 3591
+22:47:30
+DEBUG Message: Iteration: 3592
+22:47:30
+DEBUG Message: Iteration: 3593
+22:47:30
+DEBUG Message: Iteration: 3594
+22:47:30
+DEBUG Message: Iteration: 3595
+22:47:30
+DEBUG Message: Iteration: 3596
+22:47:30
+DEBUG Message: Iteration: 3597
+22:47:30
+DEBUG Message: Iteration: 3598
+22:47:30
+DEBUG Message: Iteration: 3599
+22:47:30
+DEBUG Message: Iteration: 3600
+22:47:30
+DEBUG Message: Iteration: 3601
+22:47:30
+DEBUG Message: Iteration: 3602
+22:47:30
+DEBUG Message: Iteration: 3603
+22:47:30
+DEBUG Message: Iteration: 3604
+22:47:30
+DEBUG Message: Iteration: 3605
+22:47:30
+DEBUG Message: Iteration: 3606
+22:47:30
+DEBUG Message: Iteration: 3607
+22:47:30
+DEBUG Message: Iteration: 3608
+22:47:30
+DEBUG Message: Iteration: 3609
+22:47:30
+DEBUG Message: Iteration: 3610
+22:47:30
+DEBUG Message: Iteration: 3611
+22:47:30
+DEBUG Message: Iteration: 3612
+22:47:30
+DEBUG Message: Iteration: 3613
+22:47:30
+DEBUG Message: Iteration: 3614
+22:47:30
+DEBUG Message: Iteration: 3615
+22:47:30
+DEBUG Message: Iteration: 3616
+22:47:30
+DEBUG Message: Iteration: 3617
+22:47:30
+DEBUG Message: Iteration: 3618
+22:47:30
+DEBUG Message: Iteration: 3619
+22:47:30
+DEBUG Message: Iteration: 3620
+22:47:30
+DEBUG Message: Iteration: 3621
+22:47:30
+DEBUG Message: Iteration: 3622
+22:47:30
+DEBUG Message: Iteration: 3623
+22:47:30
+DEBUG Message: Iteration: 3624
+22:47:30
+DEBUG Message: Iteration: 3625
+22:47:30
+DEBUG Message: Iteration: 3626
+22:47:30
+DEBUG Message: Iteration: 3627
+22:47:30
+DEBUG Message: Iteration: 3628
+22:47:30
+DEBUG Message: Iteration: 3629
+22:47:30
+DEBUG Message: Iteration: 3630
+22:47:30
+DEBUG Message: Iteration: 3631
+22:47:30
+DEBUG Message: Iteration: 3632
+22:47:30
+DEBUG Message: Iteration: 3633
+22:47:30
+DEBUG Message: Iteration: 3634
+22:47:30
+DEBUG Message: Iteration: 3635
+22:47:30
+DEBUG Message: Iteration: 3636
+22:47:30
+DEBUG Message: Iteration: 3637
+22:47:30
+DEBUG Message: Iteration: 3638
+22:47:30
+DEBUG Message: Iteration: 3639
+22:47:30
+DEBUG Message: Iteration: 3640
+22:47:30
+DEBUG Message: Iteration: 3641
+22:47:30
+DEBUG Message: Iteration: 3642
+22:47:30
+DEBUG Message: Iteration: 3643
+22:47:30
+DEBUG Message: Iteration: 3644
+22:47:30
+DEBUG Message: Iteration: 3645
+22:47:30
+DEBUG Message: Iteration: 3646
+22:47:30
+DEBUG Message: Iteration: 3647
+22:47:30
+DEBUG Message: Iteration: 3648
+22:47:30
+DEBUG Message: Iteration: 3649
+22:47:30
+DEBUG Message: Iteration: 3650
+22:47:30
+DEBUG Message: Iteration: 3651
+22:47:30
+DEBUG Message: Iteration: 3652
+22:47:30
+DEBUG Message: Iteration: 3653
+22:47:30
+DEBUG Message: Iteration: 3654
+22:47:30
+DEBUG Message: Iteration: 3655
+22:47:30
+DEBUG Message: Iteration: 3656
+22:47:30
+DEBUG Message: Iteration: 3657
+22:47:30
+DEBUG Message: Iteration: 3658
+22:47:30
+DEBUG Message: Iteration: 3659
+22:47:30
+DEBUG Message: Iteration: 3660
+22:47:30
+DEBUG Message: Iteration: 3661
+22:47:30
+DEBUG Message: Iteration: 3662
+22:47:30
+DEBUG Message: Iteration: 3663
+22:47:30
+DEBUG Message: Iteration: 3664
+22:47:30
+DEBUG Message: Iteration: 3665
+22:47:30
+DEBUG Message: Iteration: 3666
+22:47:30
+DEBUG Message: Iteration: 3667
+22:47:30
+DEBUG Message: Iteration: 3668
+22:47:30
+DEBUG Message: Iteration: 3669
+22:47:30
+DEBUG Message: Iteration: 3670
+22:47:30
+DEBUG Message: Iteration: 3671
+22:47:30
+DEBUG Message: Iteration: 3672
+22:47:30
+DEBUG Message: Iteration: 3673
+22:47:30
+DEBUG Message: Iteration: 3674
+22:47:30
+DEBUG Message: Iteration: 3675
+22:47:30
+DEBUG Message: Iteration: 3676
+22:47:30
+DEBUG Message: Iteration: 3677
+22:47:30
+DEBUG Message: Iteration: 3678
+22:47:30
+DEBUG Message: Iteration: 3679
+22:47:30
+DEBUG Message: Iteration: 3680
+22:47:30
+DEBUG Message: Iteration: 3681
+22:47:30
+DEBUG Message: Iteration: 3682
+22:47:30
+DEBUG Message: Iteration: 3683
+22:47:30
+DEBUG Message: Iteration: 3684
+22:47:30
+DEBUG Message: Iteration: 3685
+22:47:30
+DEBUG Message: Iteration: 3686
+22:47:30
+DEBUG Message: Iteration: 3687
+22:47:30
+DEBUG Message: Iteration: 3688
+22:47:30
+DEBUG Message: Iteration: 3689
+22:47:30
+DEBUG Message: Iteration: 3690
+22:47:30
+DEBUG Message: Iteration: 3691
+22:47:30
+DEBUG Message: Iteration: 3692
+22:47:30
+DEBUG Message: Iteration: 3693
+22:47:30
+DEBUG Message: Iteration: 3694
+22:47:30
+DEBUG Message: Iteration: 3695
+22:47:30
+DEBUG Message: Iteration: 3696
+22:47:30
+DEBUG Message: Iteration: 3697
+22:47:30
+DEBUG Message: Iteration: 3698
+22:47:30
+DEBUG Message: Iteration: 3699
+22:47:30
+DEBUG Message: Iteration: 3700
+22:47:30
+DEBUG Message: Iteration: 3701
+22:47:30
+DEBUG Message: Iteration: 3702
+22:47:30
+DEBUG Message: Iteration: 3703
+22:47:30
+DEBUG Message: Iteration: 3704
+22:47:30
+DEBUG Message: Iteration: 3705
+22:47:30
+DEBUG Message: Iteration: 3706
+22:47:30
+DEBUG Message: Iteration: 3707
+22:47:30
+DEBUG Message: Iteration: 3708
+22:47:30
+DEBUG Message: Iteration: 3709
+22:47:30
+DEBUG Message: Iteration: 3710
+22:47:30
+DEBUG Message: Iteration: 3711
+22:47:30
+DEBUG Message: Iteration: 3712
+22:47:30
+DEBUG Message: Iteration: 3713
+22:47:30
+DEBUG Message: Iteration: 3714
+22:47:30
+DEBUG Message: Iteration: 3715
+22:47:30
+DEBUG Message: Iteration: 3716
+22:47:30
+DEBUG Message: Iteration: 3717
+22:47:30
+DEBUG Message: Iteration: 3718
+22:47:30
+DEBUG Message: Iteration: 3719
+22:47:30
+DEBUG Message: Iteration: 3720
+22:47:30
+DEBUG Message: Iteration: 3721
+22:47:30
+DEBUG Message: Iteration: 3722
+22:47:30
+DEBUG Message: Iteration: 3723
+22:47:30
+DEBUG Message: Iteration: 3724
+22:47:30
+DEBUG Message: Iteration: 3725
+22:47:30
+DEBUG Message: Iteration: 3726
+22:47:30
+DEBUG Message: Iteration: 3727
+22:47:30
+DEBUG Message: Iteration: 3728
+22:47:30
+DEBUG Message: Iteration: 3729
+22:47:30
+DEBUG Message: Iteration: 3730
+22:47:30
+DEBUG Message: Iteration: 3731
+22:47:30
+DEBUG Message: Iteration: 3732
+22:47:30
+DEBUG Message: Iteration: 3733
+22:47:30
+DEBUG Message: Iteration: 3734
+22:47:30
+DEBUG Message: Iteration: 3735
+22:47:30
+DEBUG Message: Iteration: 3736
+22:47:30
+DEBUG Message: Iteration: 3737
+22:47:30
+DEBUG Message: Iteration: 3738
+22:47:30
+DEBUG Message: Iteration: 3739
+22:47:30
+DEBUG Message: Iteration: 3740
+22:47:30
+DEBUG Message: Iteration: 3741
+22:47:30
+DEBUG Message: Iteration: 3742
+22:47:30
+DEBUG Message: Iteration: 3743
+22:47:30
+DEBUG Message: Iteration: 3744
+22:47:30
+DEBUG Message: Iteration: 3745
+22:47:30
+DEBUG Message: Iteration: 3746
+22:47:30
+DEBUG Message: Iteration: 3747
+22:47:30
+DEBUG Message: Iteration: 3748
+22:47:30
+DEBUG Message: Iteration: 3749
+22:47:30
+DEBUG Message: Iteration: 3750
+22:47:30
+DEBUG Message: Iteration: 3751
+22:47:30
+DEBUG Message: Iteration: 3752
+22:47:30
+DEBUG Message: Iteration: 3753
+22:47:30
+DEBUG Message: Iteration: 3754
+22:47:30
+DEBUG Message: Iteration: 3755
+22:47:30
+DEBUG Message: Iteration: 3756
+22:47:30
+DEBUG Message: Iteration: 3757
+22:47:30
+DEBUG Message: Iteration: 3758
+22:47:30
+DEBUG Message: Iteration: 3759
+22:47:30
+DEBUG Message: Iteration: 3760
+22:47:30
+DEBUG Message: Iteration: 3761
+22:47:30
+DEBUG Message: Iteration: 3762
+22:47:30
+DEBUG Message: Iteration: 3763
+22:47:30
+DEBUG Message: Iteration: 3764
+22:47:30
+DEBUG Message: Iteration: 3765
+22:47:30
+DEBUG Message: Iteration: 3766
+22:47:30
+DEBUG Message: Iteration: 3767
+22:47:30
+DEBUG Message: Iteration: 3768
+22:47:30
+DEBUG Message: Iteration: 3769
+22:47:30
+DEBUG Message: Iteration: 3770
+22:47:30
+DEBUG Message: Iteration: 3771
+22:47:30
+DEBUG Message: Iteration: 3772
+22:47:30
+DEBUG Message: Iteration: 3773
+22:47:30
+DEBUG Message: Iteration: 3774
+22:47:30
+DEBUG Message: Iteration: 3775
+22:47:30
+DEBUG Message: Iteration: 3776
+22:47:30
+DEBUG Message: Iteration: 3777
+22:47:30
+DEBUG Message: Iteration: 3778
+22:47:30
+DEBUG Message: Iteration: 3779
+22:47:30
+DEBUG Message: Iteration: 3780
+22:47:30
+DEBUG Message: Iteration: 3781
+22:47:30
+DEBUG Message: Iteration: 3782
+22:47:30
+DEBUG Message: Iteration: 3783
+22:47:30
+DEBUG Message: Iteration: 3784
+22:47:30
+DEBUG Message: Iteration: 3785
+22:47:30
+DEBUG Message: Iteration: 3786
+22:47:30
+DEBUG Message: Iteration: 3787
+22:47:30
+DEBUG Message: Iteration: 3788
+22:47:30
+DEBUG Message: Iteration: 3789
+22:47:30
+DEBUG Message: Iteration: 3790
+22:47:30
+DEBUG Message: Iteration: 3791
+22:47:30
+DEBUG Message: Iteration: 3792
+22:47:30
+DEBUG Message: Iteration: 3793
+22:47:30
+DEBUG Message: Iteration: 3794
+22:47:30
+DEBUG Message: Iteration: 3795
+22:47:30
+DEBUG Message: Iteration: 3796
+22:47:30
+DEBUG Message: Iteration: 3797
+22:47:30
+DEBUG Message: Iteration: 3798
+22:47:30
+DEBUG Message: Iteration: 3799
+22:47:30
+DEBUG Message: Iteration: 3800
+22:47:30
+DEBUG Message: Iteration: 3801
+22:47:30
+DEBUG Message: Iteration: 3802
+22:47:30
+DEBUG Message: Iteration: 3803
+22:47:30
+DEBUG Message: Iteration: 3804
+22:47:30
+DEBUG Message: Iteration: 3805
+22:47:30
+DEBUG Message: Iteration: 3806
+22:47:30
+DEBUG Message: Iteration: 3807
+22:47:30
+DEBUG Message: Iteration: 3808
+22:47:30
+DEBUG Message: Iteration: 3809
+22:47:30
+DEBUG Message: Iteration: 3810
+22:47:30
+DEBUG Message: Iteration: 3811
+22:47:30
+DEBUG Message: Iteration: 3812
+22:47:30
+DEBUG Message: Iteration: 3813
+22:47:30
+DEBUG Message: Iteration: 3814
+22:47:30
+DEBUG Message: Iteration: 3815
+22:47:30
+DEBUG Message: Iteration: 3816
+22:47:30
+DEBUG Message: Iteration: 3817
+22:47:30
+DEBUG Message: Iteration: 3818
+22:47:30
+DEBUG Message: Iteration: 3819
+22:47:30
+DEBUG Message: Iteration: 3820
+22:47:30
+DEBUG Message: Iteration: 3821
+22:47:30
+DEBUG Message: Iteration: 3822
+22:47:30
+DEBUG Message: Iteration: 3823
+22:47:30
+DEBUG Message: Iteration: 3824
+22:47:30
+DEBUG Message: Iteration: 3825
+22:47:30
+DEBUG Message: Iteration: 3826
+22:47:30
+DEBUG Message: Iteration: 3827
+22:47:30
+DEBUG Message: Iteration: 3828
+22:47:30
+DEBUG Message: Iteration: 3829
+22:47:30
+DEBUG Message: Iteration: 3830
+22:47:30
+DEBUG Message: Iteration: 3831
+22:47:30
+DEBUG Message: Iteration: 3832
+22:47:30
+DEBUG Message: Iteration: 3833
+22:47:30
+DEBUG Message: Iteration: 3834
+22:47:30
+DEBUG Message: Iteration: 3835
+22:47:30
+DEBUG Message: Iteration: 3836
+22:47:30
+DEBUG Message: Iteration: 3837
+22:47:30
+DEBUG Message: Iteration: 3838
+22:47:30
+DEBUG Message: Iteration: 3839
+22:47:30
+DEBUG Message: Iteration: 3840
+22:47:30
+DEBUG Message: Iteration: 3841
+22:47:30
+DEBUG Message: Iteration: 3842
+22:47:30
+DEBUG Message: Iteration: 3843
+22:47:30
+DEBUG Message: Iteration: 3844
+22:47:30
+DEBUG Message: Iteration: 3845
+22:47:30
+DEBUG Message: Iteration: 3846
+22:47:30
+DEBUG Message: Iteration: 3847
+22:47:30
+DEBUG Message: Iteration: 3848
+22:47:30
+DEBUG Message: Iteration: 3849
+22:47:30
+DEBUG Message: Iteration: 3850
+22:47:30
+DEBUG Message: Iteration: 3851
+22:47:30
+DEBUG Message: Iteration: 3852
+22:47:30
+DEBUG Message: Iteration: 3853
+22:47:30
+DEBUG Message: Iteration: 3854
+22:47:30
+DEBUG Message: Iteration: 3855
+22:47:30
+DEBUG Message: Iteration: 3856
+22:47:30
+DEBUG Message: Iteration: 3857
+22:47:30
+DEBUG Message: Iteration: 3858
+22:47:30
+DEBUG Message: Iteration: 3859
+22:47:30
+DEBUG Message: Iteration: 3860
+22:47:30
+DEBUG Message: Iteration: 3861
+22:47:30
+DEBUG Message: Iteration: 3862
+22:47:30
+DEBUG Message: Iteration: 3863
+22:47:30
+DEBUG Message: Iteration: 3864
+22:47:30
+DEBUG Message: Iteration: 3865
+22:47:30
+DEBUG Message: Iteration: 3866
+22:47:30
+DEBUG Message: Iteration: 3867
+22:47:30
+DEBUG Message: Iteration: 3868
+22:47:30
+DEBUG Message: Iteration: 3869
+22:47:30
+DEBUG Message: Iteration: 3870
+22:47:30
+DEBUG Message: Iteration: 3871
+22:47:30
+DEBUG Message: Iteration: 3872
+22:47:30
+DEBUG Message: Iteration: 3873
+22:47:30
+DEBUG Message: Iteration: 3874
+22:47:30
+DEBUG Message: Iteration: 3875
+22:47:30
+DEBUG Message: Iteration: 3876
+22:47:30
+DEBUG Message: Iteration: 3877
+22:47:30
+DEBUG Message: Iteration: 3878
+22:47:30
+DEBUG Message: Iteration: 3879
+22:47:30
+DEBUG Message: Iteration: 3880
+22:47:30
+DEBUG Message: Iteration: 3881
+22:47:30
+DEBUG Message: Iteration: 3882
+22:47:30
+DEBUG Message: Iteration: 3883
+22:47:30
+DEBUG Message: Iteration: 3884
+22:47:30
+DEBUG Message: Iteration: 3885
+22:47:30
+DEBUG Message: Iteration: 3886
+22:47:30
+DEBUG Message: Iteration: 3887
+22:47:30
+DEBUG Message: Iteration: 3888
+22:47:30
+DEBUG Message: Iteration: 3889
+22:47:30
+DEBUG Message: Iteration: 3890
+22:47:30
+DEBUG Message: Iteration: 3891
+22:47:30
+DEBUG Message: Iteration: 3892
+22:47:30
+DEBUG Message: Iteration: 3893
+22:47:30
+DEBUG Message: Iteration: 3894
+22:47:30
+DEBUG Message: Iteration: 3895
+22:47:30
+DEBUG Message: Iteration: 3896
+22:47:30
+DEBUG Message: Iteration: 3897
+22:47:30
+DEBUG Message: Iteration: 3898
+22:47:30
+DEBUG Message: Iteration: 3899
+22:47:30
+DEBUG Message: Iteration: 3900
+22:47:30
+DEBUG Message: Iteration: 3901
+22:47:30
+DEBUG Message: Iteration: 3902
+22:47:30
+DEBUG Message: Iteration: 3903
+22:47:30
+DEBUG Message: Iteration: 3904
+22:47:30
+DEBUG Message: Iteration: 3905
+22:47:30
+DEBUG Message: Iteration: 3906
+22:47:30
+DEBUG Message: Iteration: 3907
+22:47:30
+DEBUG Message: Iteration: 3908
+22:47:30
+DEBUG Message: Iteration: 3909
+22:47:30
+DEBUG Message: Iteration: 3910
+22:47:30
+DEBUG Message: Iteration: 3911
+22:47:30
+DEBUG Message: Iteration: 3912
+22:47:30
+DEBUG Message: Iteration: 3913
+22:47:30
+DEBUG Message: Iteration: 3914
+22:47:30
+DEBUG Message: Iteration: 3915
+22:47:30
+DEBUG Message: Iteration: 3916
+22:47:30
+DEBUG Message: Iteration: 3917
+22:47:30
+DEBUG Message: Iteration: 3918
+22:47:30
+DEBUG Message: Iteration: 3919
+22:47:30
+DEBUG Message: Iteration: 3920
+22:47:30
+DEBUG Message: Iteration: 3921
+22:47:30
+DEBUG Message: Iteration: 3922
+22:47:30
+DEBUG Message: Iteration: 3923
+22:47:30
+DEBUG Message: Iteration: 3924
+22:47:30
+DEBUG Message: Iteration: 3925
+22:47:30
+DEBUG Message: Iteration: 3926
+22:47:30
+DEBUG Message: Iteration: 3927
+22:47:30
+DEBUG Message: Iteration: 3928
+22:47:30
+DEBUG Message: Iteration: 3929
+22:47:30
+DEBUG Message: Iteration: 3930
+22:47:30
+DEBUG Message: Iteration: 3931
+22:47:30
+DEBUG Message: Iteration: 3932
+22:47:30
+DEBUG Message: Iteration: 3933
+22:47:30
+DEBUG Message: Iteration: 3934
+22:47:30
+DEBUG Message: Iteration: 3935
+22:47:30
+DEBUG Message: Iteration: 3936
+22:47:30
+DEBUG Message: Iteration: 3937
+22:47:30
+DEBUG Message: Iteration: 3938
+22:47:30
+DEBUG Message: Iteration: 3939
+22:47:30
+DEBUG Message: Iteration: 3940
+22:47:30
+DEBUG Message: Iteration: 3941
+22:47:30
+DEBUG Message: Iteration: 3942
+22:47:30
+DEBUG Message: Iteration: 3943
+22:47:30
+DEBUG Message: Iteration: 3944
+22:47:30
+DEBUG Message: Iteration: 3945
+22:47:30
+DEBUG Message: Iteration: 3946
+22:47:30
+DEBUG Message: Iteration: 3947
+22:47:30
+DEBUG Message: Iteration: 3948
+22:47:30
+DEBUG Message: Iteration: 3949
+22:47:30
+DEBUG Message: Iteration: 3950
+22:47:30
+DEBUG Message: Iteration: 3951
+22:47:30
+DEBUG Message: Iteration: 3952
+22:47:30
+DEBUG Message: Iteration: 3953
+22:47:30
+DEBUG Message: Iteration: 3954
+22:47:30
+DEBUG Message: Iteration: 3955
+22:47:30
+DEBUG Message: Iteration: 3956
+22:47:30
+DEBUG Message: Iteration: 3957
+22:47:30
+DEBUG Message: Iteration: 3958
+22:47:30
+DEBUG Message: Iteration: 3959
+22:47:30
+DEBUG Message: Iteration: 3960
+22:47:30
+DEBUG Message: Iteration: 3961
+22:47:30
+DEBUG Message: Iteration: 3962
+22:47:30
+DEBUG Message: Iteration: 3963
+22:47:30
+DEBUG Message: Iteration: 3964
+22:47:30
+DEBUG Message: Iteration: 3965
+22:47:30
+DEBUG Message: Iteration: 3966
+22:47:30
+DEBUG Message: Iteration: 3967
+22:47:30
+DEBUG Message: Iteration: 3968
+22:47:30
+DEBUG Message: Iteration: 3969
+22:47:30
+DEBUG Message: Iteration: 3970
+22:47:30
+DEBUG Message: Iteration: 3971
+22:47:30
+DEBUG Message: Iteration: 3972
+22:47:30
+DEBUG Message: Iteration: 3973
+22:47:30
+DEBUG Message: Iteration: 3974
+22:47:30
+DEBUG Message: Iteration: 3975
+22:47:30
+DEBUG Message: Iteration: 3976
+22:47:30
+DEBUG Message: Iteration: 3977
+22:47:30
+DEBUG Message: Iteration: 3978
+22:47:30
+DEBUG Message: Iteration: 3979
+22:47:30
+DEBUG Message: Iteration: 3980
+22:47:30
+DEBUG Message: Iteration: 3981
+22:47:30
+DEBUG Message: Iteration: 3982
+22:47:30
+DEBUG Message: Iteration: 3983
+22:47:30
+DEBUG Message: Iteration: 3984
+22:47:30
+DEBUG Message: Iteration: 3985
+22:47:30
+DEBUG Message: Iteration: 3986
+22:47:30
+DEBUG Message: Iteration: 3987
+22:47:30
+DEBUG Message: Iteration: 3988
+22:47:30
+DEBUG Message: Iteration: 3989
+22:47:30
+DEBUG Message: Iteration: 3990
+22:47:30
+DEBUG Message: Iteration: 3991
+22:47:30
+DEBUG Message: Iteration: 3992
+22:47:30
+DEBUG Message: Iteration: 3993
+22:47:30
+DEBUG Message: Iteration: 3994
+22:47:30
+DEBUG Message: Iteration: 3995
+22:47:30
+DEBUG Message: Iteration: 3996
+22:47:30
+DEBUG Message: Iteration: 3997
+22:47:30
+DEBUG Message: Iteration: 3998
+22:47:30
+DEBUG Message: Iteration: 3999
+22:47:30
+DEBUG Message: Iteration: 4000
+22:47:30
+DEBUG Message: Iteration: 4001
+22:47:30
+DEBUG Message: Iteration: 4002
+22:47:30
+DEBUG Message: Iteration: 4003
+22:47:30
+DEBUG Message: Iteration: 4004
+22:47:30
+DEBUG Message: Iteration: 4005
+22:47:30
+DEBUG Message: Iteration: 4006
+22:47:30
+DEBUG Message: Iteration: 4007
+22:47:30
+DEBUG Message: Iteration: 4008
+22:47:30
+DEBUG Message: Iteration: 4009
+22:47:30
+DEBUG Message: Iteration: 4010
+22:47:30
+DEBUG Message: Iteration: 4011
+22:47:30
+DEBUG Message: Iteration: 4012
+22:47:30
+DEBUG Message: Iteration: 4013
+22:47:30
+DEBUG Message: Iteration: 4014
+22:47:30
+DEBUG Message: Iteration: 4015
+22:47:30
+DEBUG Message: Iteration: 4016
+22:47:30
+DEBUG Message: Iteration: 4017
+22:47:30
+DEBUG Message: Iteration: 4018
+22:47:30
+DEBUG Message: Iteration: 4019
+22:47:30
+DEBUG Message: Iteration: 4020
+22:47:30
+DEBUG Message: Iteration: 4021
+22:47:30
+DEBUG Message: Iteration: 4022
+22:47:30
+DEBUG Message: Iteration: 4023
+22:47:30
+DEBUG Message: Iteration: 4024
+22:47:30
+DEBUG Message: Iteration: 4025
+22:47:30
+DEBUG Message: Iteration: 4026
+22:47:30
+DEBUG Message: Iteration: 4027
+22:47:30
+DEBUG Message: Iteration: 4028
+22:47:30
+DEBUG Message: Iteration: 4029
+22:47:30
+DEBUG Message: Iteration: 4030
+22:47:30
+DEBUG Message: Iteration: 4031
+22:47:30
+DEBUG Message: Iteration: 4032
+22:47:30
+DEBUG Message: Iteration: 4033
+22:47:30
+DEBUG Message: Iteration: 4034
+22:47:30
+DEBUG Message: Iteration: 4035
+22:47:30
+DEBUG Message: Iteration: 4036
+22:47:30
+DEBUG Message: Iteration: 4037
+22:47:30
+DEBUG Message: Iteration: 4038
+22:47:30
+DEBUG Message: Iteration: 4039
+22:47:30
+DEBUG Message: Iteration: 4040
+22:47:30
+DEBUG Message: Iteration: 4041
+22:47:30
+DEBUG Message: Iteration: 4042
+22:47:30
+DEBUG Message: Iteration: 4043
+22:47:30
+DEBUG Message: Iteration: 4044
+22:47:30
+DEBUG Message: Iteration: 4045
+22:47:30
+DEBUG Message: Iteration: 4046
+22:47:30
+DEBUG Message: Iteration: 4047
+22:47:30
+DEBUG Message: Iteration: 4048
+22:47:30
+DEBUG Message: Iteration: 4049
+22:47:30
+DEBUG Message: Iteration: 4050
+22:47:30
+DEBUG Message: Iteration: 4051
+22:47:30
+DEBUG Message: Iteration: 4052
+22:47:30
+DEBUG Message: Iteration: 4053
+22:47:30
+DEBUG Message: Iteration: 4054
+22:47:30
+DEBUG Message: Iteration: 4055
+22:47:30
+DEBUG Message: Iteration: 4056
+22:47:30
+DEBUG Message: Iteration: 4057
+22:47:30
+DEBUG Message: Iteration: 4058
+22:47:30
+DEBUG Message: Iteration: 4059
+22:47:30
+DEBUG Message: Iteration: 4060
+22:47:30
+DEBUG Message: Iteration: 4061
+22:47:30
+DEBUG Message: Iteration: 4062
+22:47:30
+DEBUG Message: Iteration: 4063
+22:47:30
+DEBUG Message: Iteration: 4064
+22:47:30
+DEBUG Message: Iteration: 4065
+22:47:30
+DEBUG Message: Iteration: 4066
+22:47:30
+DEBUG Message: Iteration: 4067
+22:47:30
+DEBUG Message: Iteration: 4068
+22:47:30
+DEBUG Message: Iteration: 4069
+22:47:30
+DEBUG Message: Iteration: 4070
+22:47:30
+DEBUG Message: Iteration: 4071
+22:47:30
+DEBUG Message: Iteration: 4072
+22:47:30
+DEBUG Message: Iteration: 4073
+22:47:30
+DEBUG Message: Iteration: 4074
+22:47:30
+DEBUG Message: Iteration: 4075
+22:47:30
+DEBUG Message: Iteration: 4076
+22:47:30
+DEBUG Message: Iteration: 4077
+22:47:30
+DEBUG Message: Iteration: 4078
+22:47:30
+DEBUG Message: Iteration: 4079
+22:47:30
+DEBUG Message: Iteration: 4080
+22:47:30
+DEBUG Message: Iteration: 4081
+22:47:30
+DEBUG Message: Iteration: 4082
+22:47:30
+DEBUG Message: Iteration: 4083
+22:47:30
+DEBUG Message: Iteration: 4084
+22:47:30
+DEBUG Message: Iteration: 4085
+22:47:30
+DEBUG Message: Iteration: 4086
+22:47:30
+DEBUG Message: Iteration: 4087
+22:47:30
+DEBUG Message: Iteration: 4088
+22:47:30
+DEBUG Message: Iteration: 4089
+22:47:30
+DEBUG Message: Iteration: 4090
+22:47:30
+DEBUG Message: Iteration: 4091
+22:47:30
+DEBUG Message: Iteration: 4092
+22:47:30
+DEBUG Message: Iteration: 4093
+22:47:30
+DEBUG Message: Iteration: 4094
+22:47:30
+DEBUG Message: Iteration: 4095
+22:47:30
+DEBUG Message: Iteration: 4096
+22:47:30
+DEBUG Message: Iteration: 4097
+22:47:30
+DEBUG Message: Iteration: 4098
+22:47:30
+DEBUG Message: Iteration: 4099
+22:47:30
+DEBUG Message: Iteration: 4100
+22:47:30
+DEBUG Message: Iteration: 4101
+22:47:30
+DEBUG Message: Iteration: 4102
+22:47:30
+DEBUG Message: Iteration: 4103
+22:47:30
+DEBUG Message: Iteration: 4104
+22:47:30
+DEBUG Message: Iteration: 4105
+22:47:30
+DEBUG Message: Iteration: 4106
+22:47:30
+DEBUG Message: Iteration: 4107
+22:47:30
+DEBUG Message: Iteration: 4108
+22:47:30
+DEBUG Message: Iteration: 4109
+22:47:30
+DEBUG Message: Iteration: 4110
+22:47:30
+DEBUG Message: Iteration: 4111
+22:47:30
+DEBUG Message: Iteration: 4112
+22:47:30
+DEBUG Message: Iteration: 4113
+22:47:30
+DEBUG Message: Iteration: 4114
+22:47:30
+DEBUG Message: Iteration: 4115
+22:47:30
+DEBUG Message: Iteration: 4116
+22:47:30
+DEBUG Message: Iteration: 4117
+22:47:30
+DEBUG Message: Iteration: 4118
+22:47:30
+DEBUG Message: Iteration: 4119
+22:47:30
+DEBUG Message: Iteration: 4120
+22:47:30
+DEBUG Message: Iteration: 4121
+22:47:30
+DEBUG Message: Iteration: 4122
+22:47:30
+DEBUG Message: Iteration: 4123
