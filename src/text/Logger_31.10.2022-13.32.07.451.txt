@@ -1,0 +1,559 @@
+13:32:07.452
+DEBUG Message: Iteration: 750
+
+13:32:07.452
+DEBUG Message: Iteration: 751
+
+13:32:07.452
+DEBUG Message: Iteration: 752
+
+13:32:07.452
+DEBUG Message: Iteration: 753
+
+13:32:07.452
+DEBUG Message: Iteration: 754
+
+13:32:07.452
+DEBUG Message: Iteration: 755
+
+13:32:07.453
+DEBUG Message: Iteration: 756
+
+13:32:07.453
+DEBUG Message: Iteration: 757
+
+13:32:07.453
+DEBUG Message: Iteration: 758
+
+13:32:07.453
+DEBUG Message: Iteration: 759
+
+13:32:07.453
+DEBUG Message: Iteration: 760
+
+13:32:07.453
+DEBUG Message: Iteration: 761
+
+13:32:07.454
+DEBUG Message: Iteration: 762
+
+13:32:07.454
+DEBUG Message: Iteration: 763
+
+13:32:07.454
+DEBUG Message: Iteration: 764
+
+13:32:07.454
+DEBUG Message: Iteration: 765
+
+13:32:07.454
+DEBUG Message: Iteration: 766
+
+13:32:07.454
+DEBUG Message: Iteration: 767
+
+13:32:07.455
+DEBUG Message: Iteration: 768
+
+13:32:07.455
+DEBUG Message: Iteration: 769
+
+13:32:07.455
+DEBUG Message: Iteration: 770
+
+13:32:07.455
+DEBUG Message: Iteration: 771
+
+13:32:07.455
+DEBUG Message: Iteration: 772
+
+13:32:07.455
+DEBUG Message: Iteration: 773
+
+13:32:07.455
+DEBUG Message: Iteration: 774
+
+13:32:07.456
+DEBUG Message: Iteration: 775
+
+13:32:07.456
+DEBUG Message: Iteration: 776
+
+13:32:07.456
+DEBUG Message: Iteration: 777
+
+13:32:07.456
+DEBUG Message: Iteration: 778
+
+13:32:07.456
+DEBUG Message: Iteration: 779
+
+13:32:07.456
+DEBUG Message: Iteration: 780
+
+13:32:07.456
+DEBUG Message: Iteration: 781
+
+13:32:07.457
+DEBUG Message: Iteration: 782
+
+13:32:07.457
+DEBUG Message: Iteration: 783
+
+13:32:07.457
+DEBUG Message: Iteration: 784
+
+13:32:07.457
+DEBUG Message: Iteration: 785
+
+13:32:07.457
+DEBUG Message: Iteration: 786
+
+13:32:07.457
+DEBUG Message: Iteration: 787
+
+13:32:07.457
+DEBUG Message: Iteration: 788
+
+13:32:07.457
+DEBUG Message: Iteration: 789
+
+13:32:07.457
+DEBUG Message: Iteration: 790
+
+13:32:07.457
+DEBUG Message: Iteration: 791
+
+13:32:07.458
+DEBUG Message: Iteration: 792
+
+13:32:07.458
+DEBUG Message: Iteration: 793
+
+13:32:07.458
+DEBUG Message: Iteration: 794
+
+13:32:07.458
+DEBUG Message: Iteration: 795
+
+13:32:07.458
+DEBUG Message: Iteration: 796
+
+13:32:07.458
+DEBUG Message: Iteration: 797
+
+13:32:07.459
+DEBUG Message: Iteration: 798
+
+13:32:07.459
+DEBUG Message: Iteration: 799
+
+13:32:07.459
+DEBUG Message: Iteration: 800
+
+13:32:07.459
+DEBUG Message: Iteration: 801
+
+13:32:07.459
+DEBUG Message: Iteration: 802
+
+13:32:07.459
+DEBUG Message: Iteration: 803
+
+13:32:07.459
+DEBUG Message: Iteration: 804
+
+13:32:07.459
+DEBUG Message: Iteration: 805
+
+13:32:07.459
+DEBUG Message: Iteration: 806
+
+13:32:07.460
+DEBUG Message: Iteration: 807
+
+13:32:07.460
+DEBUG Message: Iteration: 808
+
+13:32:07.460
+DEBUG Message: Iteration: 809
+
+13:32:07.460
+DEBUG Message: Iteration: 810
+
+13:32:07.460
+DEBUG Message: Iteration: 811
+
+13:32:07.460
+DEBUG Message: Iteration: 812
+
+13:32:07.460
+DEBUG Message: Iteration: 813
+
+13:32:07.460
+DEBUG Message: Iteration: 814
+
+13:32:07.460
+DEBUG Message: Iteration: 815
+
+13:32:07.460
+DEBUG Message: Iteration: 816
+
+13:32:07.461
+DEBUG Message: Iteration: 817
+
+13:32:07.461
+DEBUG Message: Iteration: 818
+
+13:32:07.461
+DEBUG Message: Iteration: 819
+
+13:32:07.461
+DEBUG Message: Iteration: 820
+
+13:32:07.461
+DEBUG Message: Iteration: 821
+
+13:32:07.462
+DEBUG Message: Iteration: 822
+
+13:32:07.462
+DEBUG Message: Iteration: 823
+
+13:32:07.462
+DEBUG Message: Iteration: 824
+
+13:32:07.462
+DEBUG Message: Iteration: 825
+
+13:32:07.463
+DEBUG Message: Iteration: 826
+
+13:32:07.463
+DEBUG Message: Iteration: 827
+
+13:32:07.463
+DEBUG Message: Iteration: 828
+
+13:32:07.463
+DEBUG Message: Iteration: 829
+
+13:32:07.463
+DEBUG Message: Iteration: 830
+
+13:32:07.464
+DEBUG Message: Iteration: 831
+
+13:32:07.464
+DEBUG Message: Iteration: 832
+
+13:32:07.464
+DEBUG Message: Iteration: 833
+
+13:32:07.464
+DEBUG Message: Iteration: 834
+
+13:32:07.464
+DEBUG Message: Iteration: 835
+
+13:32:07.464
+DEBUG Message: Iteration: 836
+
+13:32:07.465
+DEBUG Message: Iteration: 837
+
+13:32:07.465
+DEBUG Message: Iteration: 838
+
+13:32:07.465
+DEBUG Message: Iteration: 839
+
+13:32:07.465
+DEBUG Message: Iteration: 840
+
+13:32:07.466
+DEBUG Message: Iteration: 841
+
+13:32:07.466
+DEBUG Message: Iteration: 842
+
+13:32:07.466
+DEBUG Message: Iteration: 843
+
+13:32:07.466
+DEBUG Message: Iteration: 844
+
+13:32:07.466
+DEBUG Message: Iteration: 845
+
+13:32:07.466
+DEBUG Message: Iteration: 846
+
+13:32:07.466
+DEBUG Message: Iteration: 847
+
+13:32:07.467
+DEBUG Message: Iteration: 848
+
+13:32:07.467
+DEBUG Message: Iteration: 849
+
+13:32:07.467
+DEBUG Message: Iteration: 850
+
+13:32:07.467
+DEBUG Message: Iteration: 851
+
+13:32:07.467
+DEBUG Message: Iteration: 852
+
+13:32:07.467
+DEBUG Message: Iteration: 853
+
+13:32:07.467
+DEBUG Message: Iteration: 854
+
+13:32:07.468
+DEBUG Message: Iteration: 855
+
+13:32:07.468
+DEBUG Message: Iteration: 856
+
+13:32:07.468
+DEBUG Message: Iteration: 857
+
+13:32:07.468
+DEBUG Message: Iteration: 858
+
+13:32:07.468
+DEBUG Message: Iteration: 859
+
+13:32:07.468
+DEBUG Message: Iteration: 860
+
+13:32:07.469
+DEBUG Message: Iteration: 861
+
+13:32:07.469
+DEBUG Message: Iteration: 862
+
+13:32:07.469
+DEBUG Message: Iteration: 863
+
+13:32:07.469
+DEBUG Message: Iteration: 864
+
+13:32:07.469
+DEBUG Message: Iteration: 865
+
+13:32:07.469
+DEBUG Message: Iteration: 866
+
+13:32:07.469
+DEBUG Message: Iteration: 867
+
+13:32:07.469
+DEBUG Message: Iteration: 868
+
+13:32:07.470
+DEBUG Message: Iteration: 869
+
+13:32:07.470
+DEBUG Message: Iteration: 870
+
+13:32:07.470
+DEBUG Message: Iteration: 871
+
+13:32:07.470
+DEBUG Message: Iteration: 872
+
+13:32:07.470
+DEBUG Message: Iteration: 873
+
+13:32:07.470
+DEBUG Message: Iteration: 874
+
+13:32:07.470
+DEBUG Message: Iteration: 875
+
+13:32:07.471
+DEBUG Message: Iteration: 876
+
+13:32:07.471
+DEBUG Message: Iteration: 877
+
+13:32:07.471
+DEBUG Message: Iteration: 878
+
+13:32:07.471
+DEBUG Message: Iteration: 879
+
+13:32:07.471
+DEBUG Message: Iteration: 880
+
+13:32:07.471
+DEBUG Message: Iteration: 881
+
+13:32:07.471
+DEBUG Message: Iteration: 882
+
+13:32:07.472
+DEBUG Message: Iteration: 883
+
+13:32:07.472
+DEBUG Message: Iteration: 884
+
+13:32:07.472
+DEBUG Message: Iteration: 885
+
+13:32:07.472
+DEBUG Message: Iteration: 886
+
+13:32:07.472
+DEBUG Message: Iteration: 887
+
+13:32:07.472
+DEBUG Message: Iteration: 888
+
+13:32:07.473
+DEBUG Message: Iteration: 889
+
+13:32:07.473
+DEBUG Message: Iteration: 890
+
+13:32:07.473
+DEBUG Message: Iteration: 891
+
+13:32:07.473
+DEBUG Message: Iteration: 892
+
+13:32:07.473
+DEBUG Message: Iteration: 893
+
+13:32:07.473
+DEBUG Message: Iteration: 894
+
+13:32:07.473
+DEBUG Message: Iteration: 895
+
+13:32:07.474
+DEBUG Message: Iteration: 896
+
+13:32:07.474
+DEBUG Message: Iteration: 897
+
+13:32:07.474
+DEBUG Message: Iteration: 898
+
+13:32:07.474
+DEBUG Message: Iteration: 899
+
+13:32:07.474
+DEBUG Message: Iteration: 900
+
+13:32:07.474
+DEBUG Message: Iteration: 901
+
+13:32:07.475
+DEBUG Message: Iteration: 902
+
+13:32:07.475
+DEBUG Message: Iteration: 903
+
+13:32:07.475
+DEBUG Message: Iteration: 904
+
+13:32:07.475
+DEBUG Message: Iteration: 905
+
+13:32:07.475
+DEBUG Message: Iteration: 906
+
+13:32:07.475
+DEBUG Message: Iteration: 907
+
+13:32:07.475
+DEBUG Message: Iteration: 908
+
+13:32:07.476
+DEBUG Message: Iteration: 909
+
+13:32:07.476
+DEBUG Message: Iteration: 910
+
+13:32:07.476
+DEBUG Message: Iteration: 911
+
+13:32:07.476
+DEBUG Message: Iteration: 912
+
+13:32:07.476
+DEBUG Message: Iteration: 913
+
+13:32:07.476
+DEBUG Message: Iteration: 914
+
+13:32:07.477
+DEBUG Message: Iteration: 915
+
+13:32:07.477
+DEBUG Message: Iteration: 916
+
+13:32:07.477
+DEBUG Message: Iteration: 917
+
+13:32:07.477
+DEBUG Message: Iteration: 918
+
+13:32:07.477
+DEBUG Message: Iteration: 919
+
+13:32:07.477
+DEBUG Message: Iteration: 920
+
+13:32:07.478
+DEBUG Message: Iteration: 921
+
+13:32:07.478
+DEBUG Message: Iteration: 922
+
+13:32:07.478
+DEBUG Message: Iteration: 923
+
+13:32:07.478
+DEBUG Message: Iteration: 924
+
+13:32:07.478
+DEBUG Message: Iteration: 925
+
+13:32:07.478
+DEBUG Message: Iteration: 926
+
+13:32:07.478
+DEBUG Message: Iteration: 927
+
+13:32:07.478
+DEBUG Message: Iteration: 928
+
+13:32:07.478
+DEBUG Message: Iteration: 929
+
+13:32:07.478
+DEBUG Message: Iteration: 930
+
+13:32:07.478
+DEBUG Message: Iteration: 931
+
+13:32:07.479
+DEBUG Message: Iteration: 932
+
+13:32:07.479
+DEBUG Message: Iteration: 933
+
+13:32:07.479
+DEBUG Message: Iteration: 934
+
+13:32:07.479
+DEBUG Message: Iteration: 935
+
+13:32:07
