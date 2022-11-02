@@ -27,8 +27,6 @@ public class ValueCalculator {
         System.arraycopy(arraysHalf1, 0, array, 0, halfArrayLength);
         System.arraycopy(arraysHalf2, 0, array, halfArrayLength, halfArrayLength);
 
-
-        System.out.println(Arrays.toString(array));
         System.out.println(System.currentTimeMillis() - start + " ms");
     }
 
