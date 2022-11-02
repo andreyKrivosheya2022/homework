@@ -19,6 +19,7 @@ public class ValueCalculator {
         Thread thread1 = new Thread(new CalculationThread(arraysHalf1));
         Thread thread2 = new Thread(new CalculationThread(arraysHalf2));
 
+        thread1.start();
         thread2.start();
 
         thread1.join();
