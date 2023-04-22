@@ -1,0 +1,27 @@
+
+spring:
+  datasource:
+    driver-class-name: "com.mysql.cj.jdbc.Driver"
+    url: "jdbc:mysql://localhost:3306/hiber"
+    username: "root"
+    password: "hayday0992717546"
+
+  jpa:
+    show-sql: true
+    generate-ddl: false
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: "org.hibernate.dialect.MySQLDialect"
+
+
+logging:
+  level:
+    com.hillel.spring: INFO
+    org.springframework.web: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n"
+  file:
+    name: app.log
+    path: "/var/log/app/"
